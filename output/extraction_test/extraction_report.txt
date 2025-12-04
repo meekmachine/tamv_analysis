@@ -1,0 +1,302 @@
+============================================================
+TAMV EXTRACTION REPORT
+============================================================
+Generated: 2025-11-25 21:51:30
+
+DATASET SUMMARY
+----------------------------------------
+Total documents: 60
+Unique TAMV labels: 120
+
+By corpus:
+  brown: 30
+  cga_wiki: 30
+
+By genre:
+  adventure: 29
+  cga_civil: 15
+  cga_derailed: 15
+  belles_lettres: 1
+
+TOP 10 TAMV LABELS (overall mean frequency)
+----------------------------------------
+  present-simple-indicative-active: 0.3864
+  past-simple-indicative-active: 0.3083
+  present-simple-imperative-active: 0.0546
+  present-simple-conditional-active: 0.0492
+  present-simple-modal-active: 0.0473
+  past-perfect-indicative-active: 0.0196
+  present-progressive-indicative-active: 0.0190
+  present-perfect-indicative-active: 0.0160
+  present-simple-indicative-passive: 0.0160
+  past-simple-conditional-active: 0.0149
+
+CORPUS COMPARISON (top 5 differentiating labels)
+----------------------------------------
+  cga_wiki:
+    present-simple-indicative-active: 0.5028
+    present-simple-indicative-passive: 0.0255
+    present-simple-subjunctive-active: 0.0003
+    present-simple-subjunctive-passive: 0.0000
+    present-simple-imperative-active: 0.0766
+    present-simple-imperative-passive: 0.0000
+    present-simple-conditional-active: 0.0755
+    present-simple-conditional-passive: 0.0027
+    present-simple-modal-active: 0.0491
+    present-simple-modal-passive: 0.0104
+    present-progressive-indicative-active: 0.0301
+    present-progressive-indicative-passive: 0.0021
+    present-progressive-subjunctive-active: 0.0000
+    present-progressive-subjunctive-passive: 0.0000
+    present-progressive-imperative-active: 0.0000
+    present-progressive-imperative-passive: 0.0000
+    present-progressive-conditional-active: 0.0060
+    present-progressive-conditional-passive: 0.0007
+    present-progressive-modal-active: 0.0004
+    present-progressive-modal-passive: 0.0000
+    present-perfect-indicative-active: 0.0246
+    present-perfect-indicative-passive: 0.0004
+    present-perfect-subjunctive-active: 0.0000
+    present-perfect-subjunctive-passive: 0.0000
+    present-perfect-imperative-active: 0.0000
+    present-perfect-imperative-passive: 0.0000
+    present-perfect-conditional-active: 0.0020
+    present-perfect-conditional-passive: 0.0005
+    present-perfect-modal-active: 0.0043
+    present-perfect-modal-passive: 0.0000
+    present-perfect-progressive-indicative-active: 0.0003
+    present-perfect-progressive-indicative-passive: 0.0000
+    present-perfect-progressive-subjunctive-active: 0.0000
+    present-perfect-progressive-subjunctive-passive: 0.0000
+    present-perfect-progressive-imperative-active: 0.0000
+    present-perfect-progressive-imperative-passive: 0.0000
+    present-perfect-progressive-conditional-active: 0.0000
+    present-perfect-progressive-conditional-passive: 0.0000
+    present-perfect-progressive-modal-active: 0.0000
+    present-perfect-progressive-modal-passive: 0.0000
+    past-simple-indicative-active: 0.1380
+    past-simple-indicative-passive: 0.0091
+    past-simple-subjunctive-active: 0.0000
+    past-simple-subjunctive-passive: 0.0000
+    past-simple-imperative-active: 0.0000
+    past-simple-imperative-passive: 0.0000
+    past-simple-conditional-active: 0.0128
+    past-simple-conditional-passive: 0.0000
+    past-simple-modal-active: 0.0000
+    past-simple-modal-passive: 0.0000
+    past-progressive-indicative-active: 0.0060
+    past-progressive-indicative-passive: 0.0000
+    past-progressive-subjunctive-active: 0.0000
+    past-progressive-subjunctive-passive: 0.0000
+    past-progressive-imperative-active: 0.0000
+    past-progressive-imperative-passive: 0.0000
+    past-progressive-conditional-active: 0.0010
+    past-progressive-conditional-passive: 0.0000
+    past-progressive-modal-active: 0.0000
+    past-progressive-modal-passive: 0.0000
+    past-perfect-indicative-active: 0.0003
+    past-perfect-indicative-passive: 0.0014
+    past-perfect-subjunctive-active: 0.0000
+    past-perfect-subjunctive-passive: 0.0000
+    past-perfect-imperative-active: 0.0000
+    past-perfect-imperative-passive: 0.0000
+    past-perfect-conditional-active: 0.0000
+    past-perfect-conditional-passive: 0.0000
+    past-perfect-modal-active: 0.0000
+    past-perfect-modal-passive: 0.0000
+    past-perfect-progressive-indicative-active: 0.0000
+    past-perfect-progressive-indicative-passive: 0.0000
+    past-perfect-progressive-subjunctive-active: 0.0000
+    past-perfect-progressive-subjunctive-passive: 0.0000
+    past-perfect-progressive-imperative-active: 0.0000
+    past-perfect-progressive-imperative-passive: 0.0000
+    past-perfect-progressive-conditional-active: 0.0000
+    past-perfect-progressive-conditional-passive: 0.0000
+    past-perfect-progressive-modal-active: 0.0000
+    past-perfect-progressive-modal-passive: 0.0000
+    future-simple-indicative-active: 0.0000
+    future-simple-indicative-passive: 0.0000
+    future-simple-subjunctive-active: 0.0000
+    future-simple-subjunctive-passive: 0.0000
+    future-simple-imperative-active: 0.0000
+    future-simple-imperative-passive: 0.0000
+    future-simple-conditional-active: 0.0000
+    future-simple-conditional-passive: 0.0000
+    future-simple-modal-active: 0.0153
+    future-simple-modal-passive: 0.0020
+    future-progressive-indicative-active: 0.0000
+    future-progressive-indicative-passive: 0.0000
+    future-progressive-subjunctive-active: 0.0000
+    future-progressive-subjunctive-passive: 0.0000
+    future-progressive-imperative-active: 0.0000
+    future-progressive-imperative-passive: 0.0000
+    future-progressive-conditional-active: 0.0000
+    future-progressive-conditional-passive: 0.0000
+    future-progressive-modal-active: 0.0000
+    future-progressive-modal-passive: 0.0000
+    future-perfect-indicative-active: 0.0000
+    future-perfect-indicative-passive: 0.0000
+    future-perfect-subjunctive-active: 0.0000
+    future-perfect-subjunctive-passive: 0.0000
+    future-perfect-imperative-active: 0.0000
+    future-perfect-imperative-passive: 0.0000
+    future-perfect-conditional-active: 0.0000
+    future-perfect-conditional-passive: 0.0000
+    future-perfect-modal-active: 0.0000
+    future-perfect-modal-passive: 0.0000
+    future-perfect-progressive-indicative-active: 0.0000
+    future-perfect-progressive-indicative-passive: 0.0000
+    future-perfect-progressive-subjunctive-active: 0.0000
+    future-perfect-progressive-subjunctive-passive: 0.0000
+    future-perfect-progressive-imperative-active: 0.0000
+    future-perfect-progressive-imperative-passive: 0.0000
+    future-perfect-progressive-conditional-active: 0.0000
+    future-perfect-progressive-conditional-passive: 0.0000
+    future-perfect-progressive-modal-active: 0.0000
+    future-perfect-progressive-modal-passive: 0.0000
+  brown:
+    present-simple-indicative-active: 0.2700
+    present-simple-indicative-passive: 0.0064
+    present-simple-subjunctive-active: 0.0000
+    present-simple-subjunctive-passive: 0.0000
+    present-simple-imperative-active: 0.0327
+    present-simple-imperative-passive: 0.0000
+    present-simple-conditional-active: 0.0229
+    present-simple-conditional-passive: 0.0007
+    present-simple-modal-active: 0.0455
+    present-simple-modal-passive: 0.0028
+    present-progressive-indicative-active: 0.0080
+    present-progressive-indicative-passive: 0.0007
+    present-progressive-subjunctive-active: 0.0000
+    present-progressive-subjunctive-passive: 0.0000
+    present-progressive-imperative-active: 0.0000
+    present-progressive-imperative-passive: 0.0000
+    present-progressive-conditional-active: 0.0001
+    present-progressive-conditional-passive: 0.0000
+    present-progressive-modal-active: 0.0011
+    present-progressive-modal-passive: 0.0000
+    present-perfect-indicative-active: 0.0074
+    present-perfect-indicative-passive: 0.0007
+    present-perfect-subjunctive-active: 0.0000
+    present-perfect-subjunctive-passive: 0.0000
+    present-perfect-imperative-active: 0.0000
+    present-perfect-imperative-passive: 0.0000
+    present-perfect-conditional-active: 0.0012
+    present-perfect-conditional-passive: 0.0001
+    present-perfect-modal-active: 0.0042
+    present-perfect-modal-passive: 0.0001
+    present-perfect-progressive-indicative-active: 0.0004
+    present-perfect-progressive-indicative-passive: 0.0000
+    present-perfect-progressive-subjunctive-active: 0.0000
+    present-perfect-progressive-subjunctive-passive: 0.0000
+    present-perfect-progressive-imperative-active: 0.0000
+    present-perfect-progressive-imperative-passive: 0.0000
+    present-perfect-progressive-conditional-active: 0.0001
+    present-perfect-progressive-conditional-passive: 0.0000
+    present-perfect-progressive-modal-active: 0.0000
+    present-perfect-progressive-modal-passive: 0.0000
+    past-simple-indicative-active: 0.4785
+    past-simple-indicative-passive: 0.0164
+    past-simple-subjunctive-active: 0.0000
+    past-simple-subjunctive-passive: 0.0000
+    past-simple-imperative-active: 0.0000
+    past-simple-imperative-passive: 0.0000
+    past-simple-conditional-active: 0.0169
+    past-simple-conditional-passive: 0.0007
+    past-simple-modal-active: 0.0000
+    past-simple-modal-passive: 0.0000
+    past-progressive-indicative-active: 0.0189
+    past-progressive-indicative-passive: 0.0003
+    past-progressive-subjunctive-active: 0.0000
+    past-progressive-subjunctive-passive: 0.0000
+    past-progressive-imperative-active: 0.0000
+    past-progressive-imperative-passive: 0.0000
+    past-progressive-conditional-active: 0.0012
+    past-progressive-conditional-passive: 0.0001
+    past-progressive-modal-active: 0.0000
+    past-progressive-modal-passive: 0.0000
+    past-perfect-indicative-active: 0.0390
+    past-perfect-indicative-passive: 0.0039
+    past-perfect-subjunctive-active: 0.0000
+    past-perfect-subjunctive-passive: 0.0000
+    past-perfect-imperative-active: 0.0000
+    past-perfect-imperative-passive: 0.0000
+    past-perfect-conditional-active: 0.0016
+    past-perfect-conditional-passive: 0.0006
+    past-perfect-modal-active: 0.0000
+    past-perfect-modal-passive: 0.0000
+    past-perfect-progressive-indicative-active: 0.0010
+    past-perfect-progressive-indicative-passive: 0.0000
+    past-perfect-progressive-subjunctive-active: 0.0000
+    past-perfect-progressive-subjunctive-passive: 0.0000
+    past-perfect-progressive-imperative-active: 0.0000
+    past-perfect-progressive-imperative-passive: 0.0000
+    past-perfect-progressive-conditional-active: 0.0001
+    past-perfect-progressive-conditional-passive: 0.0000
+    past-perfect-progressive-modal-active: 0.0000
+    past-perfect-progressive-modal-passive: 0.0000
+    future-simple-indicative-active: 0.0000
+    future-simple-indicative-passive: 0.0000
+    future-simple-subjunctive-active: 0.0000
+    future-simple-subjunctive-passive: 0.0000
+    future-simple-imperative-active: 0.0000
+    future-simple-imperative-passive: 0.0000
+    future-simple-conditional-active: 0.0000
+    future-simple-conditional-passive: 0.0000
+    future-simple-modal-active: 0.0145
+    future-simple-modal-passive: 0.0006
+    future-progressive-indicative-active: 0.0000
+    future-progressive-indicative-passive: 0.0000
+    future-progressive-subjunctive-active: 0.0000
+    future-progressive-subjunctive-passive: 0.0000
+    future-progressive-imperative-active: 0.0000
+    future-progressive-imperative-passive: 0.0000
+    future-progressive-conditional-active: 0.0000
+    future-progressive-conditional-passive: 0.0000
+    future-progressive-modal-active: 0.0005
+    future-progressive-modal-passive: 0.0000
+    future-perfect-indicative-active: 0.0000
+    future-perfect-indicative-passive: 0.0000
+    future-perfect-subjunctive-active: 0.0000
+    future-perfect-subjunctive-passive: 0.0000
+    future-perfect-imperative-active: 0.0000
+    future-perfect-imperative-passive: 0.0000
+    future-perfect-conditional-active: 0.0000
+    future-perfect-conditional-passive: 0.0000
+    future-perfect-modal-active: 0.0001
+    future-perfect-modal-passive: 0.0000
+    future-perfect-progressive-indicative-active: 0.0000
+    future-perfect-progressive-indicative-passive: 0.0000
+    future-perfect-progressive-subjunctive-active: 0.0000
+    future-perfect-progressive-subjunctive-passive: 0.0000
+    future-perfect-progressive-imperative-active: 0.0000
+    future-perfect-progressive-imperative-passive: 0.0000
+    future-perfect-progressive-conditional-active: 0.0000
+    future-perfect-progressive-conditional-passive: 0.0000
+    future-perfect-progressive-modal-active: 0.0000
+    future-perfect-progressive-modal-passive: 0.0000
+
+GENRE HIGHLIGHTS
+----------------------------------------
+
+adventure:
+  past-simple-indicative-active: 0.4899
+  present-simple-indicative-active: 0.2603
+  present-simple-modal-active: 0.0456
+
+belles_lettres:
+  present-simple-indicative-active: 0.5522
+  past-simple-indicative-active: 0.1478
+  present-simple-conditional-active: 0.0522
+
+cga_civil:
+  present-simple-indicative-active: 0.5057
+  past-simple-indicative-active: 0.1736
+  present-simple-conditional-active: 0.0700
+
+cga_derailed:
+  present-simple-indicative-active: 0.4999
+  past-simple-indicative-active: 0.1023
+  present-simple-imperative-active: 0.0923
+
+============================================================

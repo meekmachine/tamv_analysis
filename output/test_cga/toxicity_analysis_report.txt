@@ -1,0 +1,51 @@
+============================================================
+TAMV-TOXICITY ANALYSIS REPORT
+============================================================
+
+DATASET SUMMARY
+----------------------------------------
+Total conversations: 30
+Derailed: 15
+Civil: 15
+
+TAMV-TOXICITY CORRELATIONS
+----------------------------------------
+Significant correlations (p < 0.05): 2
+
+Top 5 positive correlations:
+  present-progressive-indicative-active: r=0.491 (p=0.0058)
+  present-simple-imperative-active: r=0.368 (p=0.0457)
+  present-perfect-indicative-active: r=0.271 (p=0.1476)
+  present-progressive-conditional-active: r=0.260 (p=0.1656)
+  past-progressive-conditional-active: r=0.245 (p=0.1918)
+
+Top 5 negative correlations:
+  past-simple-indicative-active: r=-0.340 (p=0.0664)
+  present-simple-indicative-passive: r=-0.281 (p=0.1326)
+  present-simple-modal-passive: r=-0.253 (p=0.1778)
+  present-simple-modal-active: r=-0.229 (p=0.2241)
+  present-simple-conditional-passive: r=-0.183 (p=0.3325)
+
+DERAILED VS CIVIL COMPARISON
+----------------------------------------
+Significant differences (p < 0.05): 2
+
+Top 5 differentiating TAMV labels (by effect size):
+  present-progressive-indicative-active: d=0.892 (higher in derailed)
+  past-simple-indicative-active: d=-0.765 (higher in civil)
+  present-simple-modal-passive: d=-0.732 (higher in civil)
+  present-simple-imperative-active: d=0.625 (higher in derailed)
+  future-simple-modal-passive: d=-0.570 (higher in civil)
+
+DERAILMENT PREDICTION MODEL
+----------------------------------------
+Accuracy: 0.533 ± 0.194
+F1 Score: 0.485 ± 0.196
+AUC-ROC: 0.644 ± 0.215
+
+Top predictive features (positive = predicts derailment):
+  present-progressive-indicative-active: coef=0.746
+  present-perfect-indicative-active: coef=0.659
+  past-progressive-indicative-active: coef=0.591
+
+============================================================

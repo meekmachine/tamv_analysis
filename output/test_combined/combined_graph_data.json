@@ -1,0 +1,6307 @@
+{
+  "nodes": [
+    {
+      "id": "cn01",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 362,
+      "x": 2.365672073284705,
+      "y": 3.4240709965936738,
+      "z": 3.0868030031349254
+    },
+    {
+      "id": "cn02",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 346,
+      "x": 3.664295145964068,
+      "y": 1.197938455757917,
+      "z": 0.7137010420756668
+    },
+    {
+      "id": "cn03",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 376,
+      "x": 2.630822174024087,
+      "y": -0.31079140290047486,
+      "z": -0.1505254114588077
+    },
+    {
+      "id": "cn04",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 357,
+      "x": 1.5678938943759604,
+      "y": -0.20029152621278382,
+      "z": 0.4167412394825346
+    },
+    {
+      "id": "cn05",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 360,
+      "x": 1.9539224371899757,
+      "y": -0.30522620663568845,
+      "z": -0.3834273158914578
+    },
+    {
+      "id": "cn06",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 304,
+      "x": 3.0263236326329745,
+      "y": 0.17630042807282043,
+      "z": -0.8814829044033876
+    },
+    {
+      "id": "cn07",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 335,
+      "x": 1.9349030017348339,
+      "y": 1.207761177704874,
+      "z": 1.0833400618743039
+    },
+    {
+      "id": "cn08",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 312,
+      "x": 2.4342528647536303,
+      "y": 1.992414943285816,
+      "z": -1.2547634734564426
+    },
+    {
+      "id": "cn09",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 343,
+      "x": 1.0253958359964472,
+      "y": -0.08693885991588221,
+      "z": -0.4409185532669357
+    },
+    {
+      "id": "cn10",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 338,
+      "x": 1.6856904259026069,
+      "y": -0.13764341839506164,
+      "z": 0.8299735096051896
+    },
+    {
+      "id": "cn11",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 303,
+      "x": 5.310169318283225,
+      "y": 1.3393412699399312,
+      "z": -0.4724207284367518
+    },
+    {
+      "id": "cn12",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 390,
+      "x": 1.8745756379891647,
+      "y": -0.8982972115272572,
+      "z": -0.12905378759575215
+    },
+    {
+      "id": "cn13",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 322,
+      "x": 1.3492640136979361,
+      "y": -0.820581547872565,
+      "z": -0.279983060550079
+    },
+    {
+      "id": "cn14",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 346,
+      "x": 1.7698996626927623,
+      "y": 0.9095668912453951,
+      "z": -0.9353305271860837
+    },
+    {
+      "id": "cn15",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 314,
+      "x": 1.9535465392490015,
+      "y": 1.3203668981388479,
+      "z": -0.9865425410349785
+    },
+    {
+      "id": "cn16",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 304,
+      "x": 1.6161069428859502,
+      "y": -1.157559972090665,
+      "z": -0.25374262107815015
+    },
+    {
+      "id": "cn17",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 351,
+      "x": 2.717685774792665,
+      "y": 0.29872640839792863,
+      "z": -1.280545087673558
+    },
+    {
+      "id": "cn18",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 320,
+      "x": 0.5583422268341848,
+      "y": 1.9045975178350643,
+      "z": 0.5529914978083504
+    },
+    {
+      "id": "cn19",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 308,
+      "x": 3.375977513781772,
+      "y": 0.8220972445740456,
+      "z": 0.772436681947522
+    },
+    {
+      "id": "cn20",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 349,
+      "x": 2.0075180647294233,
+      "y": 0.8063600878824874,
+      "z": -0.5360782951473919
+    },
+    {
+      "id": "cn21",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 300,
+      "x": 2.1466551414812307,
+      "y": 0.3481506949900929,
+      "z": 0.48001112697647264
+    },
+    {
+      "id": "cn22",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 323,
+      "x": 2.152925445747868,
+      "y": -0.43892111763345004,
+      "z": -0.16256975212819894
+    },
+    {
+      "id": "cn23",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 279,
+      "x": 1.3084561837411004,
+      "y": -0.3537291621696752,
+      "z": -0.534031124436907
+    },
+    {
+      "id": "cn24",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 342,
+      "x": 2.358484291210214,
+      "y": -0.1365158074146572,
+      "z": 0.3964577351592452
+    },
+    {
+      "id": "cn25",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 353,
+      "x": 2.2601141230888038,
+      "y": 0.13552281027556262,
+      "z": 0.01920537430297684
+    },
+    {
+      "id": "cn26",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 326,
+      "x": 2.164335633300956,
+      "y": -0.5916367646339654,
+      "z": -0.25549059447363537
+    },
+    {
+      "id": "cn27",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 335,
+      "x": 0.7128086015718826,
+      "y": -0.34231383648972136,
+      "z": -0.30693537921135317
+    },
+    {
+      "id": "cn28",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 279,
+      "x": 1.3142337306774192,
+      "y": -0.1654802830168431,
+      "z": 0.5084172334917153
+    },
+    {
+      "id": "cn29",
+      "genre": "adventure",
+      "corpus": "brown",
+      "total_clauses": 351,
+      "x": 2.0816278769404817,
+      "y": -1.0301041704761231,
+      "z": -0.07774686098326239
+    },
+    {
+      "id": "cg01",
+      "genre": "belles_lettres",
+      "corpus": "brown",
+      "total_clauses": 230,
+      "x": -2.4558401983351965,
+      "y": -1.1607722283246817,
+      "z": -3.09992988374335
+    },
+    {
+      "id": "146743638.12652.12652",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 45,
+      "toxicity": 0.078140646,
+      "derailed": false,
+      "x": -0.6407681885729521,
+      "y": -0.8345091645880771,
+      "z": -0.23197712801738057
+    },
+    {
+      "id": "143890867.11926.11926",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 29,
+      "toxicity": 0.60783094,
+      "derailed": true,
+      "x": -1.4995909395345608,
+      "y": -2.0138226228857077,
+      "z": 0.1708678001091091
+    },
+    {
+      "id": "127296808.516.516",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 44,
+      "toxicity": 0.16733779999999998,
+      "derailed": false,
+      "x": -2.7316539466438745,
+      "y": 1.1219640243109408,
+      "z": -0.11105257984506237
+    },
+    {
+      "id": "144643838.1236.1236",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 35,
+      "toxicity": 0.9027101,
+      "derailed": true,
+      "x": -3.4454768710179775,
+      "y": 4.254478636185792,
+      "z": 7.120613289826438
+    },
+    {
+      "id": "66813686.23567.23567",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 103,
+      "toxicity": 0.13886318,
+      "derailed": false,
+      "x": -3.746677996483073,
+      "y": 2.6754400754394245,
+      "z": -1.5308366016293322
+    },
+    {
+      "id": "68000691.25417.25417",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 33,
+      "toxicity": 0.82595015,
+      "derailed": true,
+      "x": 0.26409969510342096,
+      "y": -1.4959076021549682,
+      "z": -0.39990979336255356
+    },
+    {
+      "id": "95100799.58.76",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 117,
+      "toxicity": 0.10846504,
+      "derailed": false,
+      "x": -2.764830365748717,
+      "y": 0.366625145603713,
+      "z": -0.2468097182973278
+    },
+    {
+      "id": "14969685.9097.9097",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 79,
+      "toxicity": 0.7009271,
+      "derailed": true,
+      "x": -3.201123491692974,
+      "y": -0.13252093937587117,
+      "z": -0.7043309990985314
+    },
+    {
+      "id": "158714043.10458.10458",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 16,
+      "toxicity": 0.19436555,
+      "derailed": false,
+      "x": -0.8464384086331739,
+      "y": -2.1126455665921418,
+      "z": 0.8110923444209757
+    },
+    {
+      "id": "156725805.9367.0",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 30,
+      "toxicity": 0.64452356,
+      "derailed": true,
+      "x": -3.197639620903146,
+      "y": 1.7030135003756857,
+      "z": -0.731191361167581
+    },
+    {
+      "id": "240149353.16332.16332",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 50,
+      "toxicity": 0.057527073,
+      "derailed": false,
+      "x": -1.5462773179401115,
+      "y": -1.1669370978993518,
+      "z": -0.5671867549645447
+    },
+    {
+      "id": "241131342.18768.18523",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 16,
+      "toxicity": 0.9027101,
+      "derailed": true,
+      "x": -1.7703113541290254,
+      "y": -2.926347564903927,
+      "z": 0.6725942208779307
+    },
+    {
+      "id": "271340377.69106.69106",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 8,
+      "toxicity": 0.036962617,
+      "derailed": false,
+      "x": -1.4517412121581188,
+      "y": -1.7891486554545248,
+      "z": -0.7327542174192336
+    },
+    {
+      "id": "271266337.66158.66158",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 79,
+      "toxicity": 0.60783094,
+      "derailed": true,
+      "x": -2.8489718597463325,
+      "y": -1.0810249182345373,
+      "z": -1.247540887410232
+    },
+    {
+      "id": "200053269.20798.20798",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 14,
+      "toxicity": 0.1961207,
+      "derailed": false,
+      "x": -0.8809745134883585,
+      "y": -3.0663146575288103,
+      "z": 0.27903303767357773
+    },
+    {
+      "id": "200248222.21224.21224",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 114,
+      "toxicity": 0.6197921,
+      "derailed": true,
+      "x": -2.2766798310359766,
+      "y": 0.8931062470558309,
+      "z": 4.742167105891078
+    },
+    {
+      "id": "193565323.8199.8199",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 28,
+      "toxicity": 0.34631196,
+      "derailed": false,
+      "x": -3.5653189492109214,
+      "y": 5.759990913753259,
+      "z": -4.5649493115490545
+    },
+    {
+      "id": "193002106.7341.7341",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 15,
+      "toxicity": 0.82595015,
+      "derailed": true,
+      "x": -1.8759688101933902,
+      "y": -2.151659386225551,
+      "z": -0.4726253712588773
+    },
+    {
+      "id": "322161962.9817.9817",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 45,
+      "toxicity": 0.19720542,
+      "derailed": false,
+      "x": -2.412575282914988,
+      "y": -0.9802012251891195,
+      "z": 0.9686029479502423
+    },
+    {
+      "id": "323279527.11312.11312",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 17,
+      "toxicity": 0.8761376000000001,
+      "derailed": true,
+      "x": -2.2218425853994335,
+      "y": -1.8295634097154205,
+      "z": 1.3335748057771195
+    },
+    {
+      "id": "408375548.1540.1540",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 4,
+      "toxicity": 0.05167317,
+      "derailed": false,
+      "x": 0.4570545527923112,
+      "y": -1.7255969047302624,
+      "z": -0.3120835757094456
+    },
+    {
+      "id": "623925770.1777.0",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 44,
+      "toxicity": 0.72970563,
+      "derailed": true,
+      "x": -0.2623439320308094,
+      "y": -1.4099807753755116,
+      "z": -0.44157518456735756
+    },
+    {
+      "id": "387118463.11252.11252",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 23,
+      "toxicity": 0.10265487,
+      "derailed": false,
+      "x": -2.441874615016724,
+      "y": 0.7411980413245527,
+      "z": -0.8902301593488371
+    },
+    {
+      "id": "408841323.14594.14594",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 4,
+      "toxicity": 0.92521816,
+      "derailed": true,
+      "x": -1.6191328442847077,
+      "y": -3.0889754071243654,
+      "z": 3.0211516919860424
+    },
+    {
+      "id": "155716783.14696.14696",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 13,
+      "toxicity": 0.5055897,
+      "derailed": false,
+      "x": -1.4081864388835805,
+      "y": -0.9876039058183664,
+      "z": -0.3310748997586523
+    },
+    {
+      "id": "155594817.14064.14064",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 27,
+      "toxicity": 0.97207886,
+      "derailed": true,
+      "x": -1.9013788227474686,
+      "y": -0.7841657416551265,
+      "z": 0.6296543715787751
+    },
+    {
+      "id": "95273157.1954.1954",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 68,
+      "toxicity": 0.34031300000000003,
+      "derailed": false,
+      "x": -2.5627364398311414,
+      "y": -0.4976919219357822,
+      "z": -1.0605626039956915
+    },
+    {
+      "id": "83160877.1204.1204",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 39,
+      "toxicity": 0.82595015,
+      "derailed": true,
+      "x": -2.1334691012041045,
+      "y": -1.5944991821740522,
+      "z": 0.6699347421958942
+    },
+    {
+      "id": "318141830.5953.5953",
+      "genre": "cga_civil",
+      "corpus": "cga_wiki",
+      "total_clauses": 60,
+      "toxicity": 0.30325922,
+      "derailed": false,
+      "x": -2.127794556129304,
+      "y": 0.18669912976714403,
+      "z": -1.8330799876728405
+    },
+    {
+      "id": "325209973.9766.9766",
+      "genre": "cga_derailed",
+      "corpus": "cga_wiki",
+      "total_clauses": 70,
+      "toxicity": 0.6486651,
+      "derailed": true,
+      "x": -2.2054339625409347,
+      "y": 6.220188626760149,
+      "z": -0.4480758269170777
+    }
+  ],
+  "edges": [
+    {
+      "source": "cn01",
+      "target": "cn02",
+      "weight": 0.9964511787801573
+    },
+    {
+      "source": "cn01",
+      "target": "cn03",
+      "weight": 0.9885252484280104
+    },
+    {
+      "source": "cn01",
+      "target": "cn04",
+      "weight": 0.9902274912667979
+    },
+    {
+      "source": "cn01",
+      "target": "cn05",
+      "weight": 0.989927797783756
+    },
+    {
+      "source": "cn01",
+      "target": "cn06",
+      "weight": 0.9887049087211637
+    },
+    {
+      "source": "cn01",
+      "target": "cn07",
+      "weight": 0.9922991803420693
+    },
+    {
+      "source": "cn01",
+      "target": "cn08",
+      "weight": 0.9965420389004545
+    },
+    {
+      "source": "cn01",
+      "target": "cn09",
+      "weight": 0.9716759878244757
+    },
+    {
+      "source": "cn01",
+      "target": "cn10",
+      "weight": 0.9941904624954885
+    },
+    {
+      "source": "cn01",
+      "target": "cn11",
+      "weight": 0.9832702599625838
+    },
+    {
+      "source": "cn01",
+      "target": "cn12",
+      "weight": 0.9846773736563079
+    },
+    {
+      "source": "cn01",
+      "target": "cn13",
+      "weight": 0.9688952518726812
+    },
+    {
+      "source": "cn01",
+      "target": "cn14",
+      "weight": 0.9924052350376343
+    },
+    {
+      "source": "cn01",
+      "target": "cn15",
+      "weight": 0.9805257604813643
+    },
+    {
+      "source": "cn01",
+      "target": "cn16",
+      "weight": 0.9833740907082203
+    },
+    {
+      "source": "cn01",
+      "target": "cn17",
+      "weight": 0.9945585834408173
+    },
+    {
+      "source": "cn01",
+      "target": "cn18",
+      "weight": 0.9937024442351017
+    },
+    {
+      "source": "cn01",
+      "target": "cn19",
+      "weight": 0.9909334826084546
+    },
+    {
+      "source": "cn01",
+      "target": "cn20",
+      "weight": 0.9930665518491832
+    },
+    {
+      "source": "cn01",
+      "target": "cn21",
+      "weight": 0.9903012024663593
+    },
+    {
+      "source": "cn01",
+      "target": "cn22",
+      "weight": 0.9929269401436569
+    },
+    {
+      "source": "cn01",
+      "target": "cn23",
+      "weight": 0.9847020338074005
+    },
+    {
+      "source": "cn01",
+      "target": "cn24",
+      "weight": 0.959702688957331
+    },
+    {
+      "source": "cn01",
+      "target": "cn25",
+      "weight": 0.9846376417486141
+    },
+    {
+      "source": "cn01",
+      "target": "cn26",
+      "weight": 0.9911077128066567
+    },
+    {
+      "source": "cn01",
+      "target": "cn27",
+      "weight": 0.9922362995057925
+    },
+    {
+      "source": "cn01",
+      "target": "cn28",
+      "weight": 0.987443339286066
+    },
+    {
+      "source": "cn01",
+      "target": "cn29",
+      "weight": 0.9885595446591564
+    },
+    {
+      "source": "cn01",
+      "target": "146743638.12652.12652",
+      "weight": 0.7455189270369387
+    },
+    {
+      "source": "cn01",
+      "target": "68000691.25417.25417",
+      "weight": 0.7466130738786787
+    },
+    {
+      "source": "cn01",
+      "target": "158714043.10458.10458",
+      "weight": 0.7346196152398882
+    },
+    {
+      "source": "cn01",
+      "target": "240149353.16332.16332",
+      "weight": 0.7077540397944347
+    },
+    {
+      "source": "cn01",
+      "target": "200053269.20798.20798",
+      "weight": 0.7058119258830264
+    },
+    {
+      "source": "cn01",
+      "target": "408375548.1540.1540",
+      "weight": 0.9299143595749404
+    },
+    {
+      "source": "cn01",
+      "target": "623925770.1777.0",
+      "weight": 0.7509690658793592
+    },
+    {
+      "source": "cn01",
+      "target": "155716783.14696.14696",
+      "weight": 0.7149304164718605
+    },
+    {
+      "source": "cn01",
+      "target": "318141830.5953.5953",
+      "weight": 0.728647241210013
+    },
+    {
+      "source": "cn02",
+      "target": "cn03",
+      "weight": 0.992873991674986
+    },
+    {
+      "source": "cn02",
+      "target": "cn04",
+      "weight": 0.9901712453110553
+    },
+    {
+      "source": "cn02",
+      "target": "cn05",
+      "weight": 0.992647636590369
+    },
+    {
+      "source": "cn02",
+      "target": "cn06",
+      "weight": 0.9947002987640767
+    },
+    {
+      "source": "cn02",
+      "target": "cn07",
+      "weight": 0.9930434999017037
+    },
+    {
+      "source": "cn02",
+      "target": "cn08",
+      "weight": 0.99503399718515
+    },
+    {
+      "source": "cn02",
+      "target": "cn09",
+      "weight": 0.966119689130952
+    },
+    {
+      "source": "cn02",
+      "target": "cn10",
+      "weight": 0.9934252749923095
+    },
+    {
+      "source": "cn02",
+      "target": "cn11",
+      "weight": 0.9907445019883211
+    },
+    {
+      "source": "cn02",
+      "target": "cn12",
+      "weight": 0.9827889582818246
+    },
+    {
+      "source": "cn02",
+      "target": "cn13",
+      "weight": 0.9641999767008185
+    },
+    {
+      "source": "cn02",
+      "target": "cn14",
+      "weight": 0.9899702088030611
+    },
+    {
+      "source": "cn02",
+      "target": "cn15",
+      "weight": 0.9824700496750409
+    },
+    {
+      "source": "cn02",
+      "target": "cn16",
+      "weight": 0.9848707945722773
+    },
+    {
+      "source": "cn02",
+      "target": "cn17",
+      "weight": 0.992169111178651
+    },
+    {
+      "source": "cn02",
+      "target": "cn18",
+      "weight": 0.9867685937680932
+    },
+    {
+      "source": "cn02",
+      "target": "cn19",
+      "weight": 0.9930644974970412
+    },
+    {
+      "source": "cn02",
+      "target": "cn20",
+      "weight": 0.9969508345770447
+    },
+    {
+      "source": "cn02",
+      "target": "cn21",
+      "weight": 0.9879177388097172
+    },
+    {
+      "source": "cn02",
+      "target": "cn22",
+      "weight": 0.9972045599777049
+    },
+    {
+      "source": "cn02",
+      "target": "cn23",
+      "weight": 0.9852101541181727
+    },
+    {
+      "source": "cn02",
+      "target": "cn24",
+      "weight": 0.9538609267863196
+    },
+    {
+      "source": "cn02",
+      "target": "cn25",
+      "weight": 0.9909117781285707
+    },
+    {
+      "source": "cn02",
+      "target": "cn26",
+      "weight": 0.9914047613599267
+    },
+    {
+      "source": "cn02",
+      "target": "cn27",
+      "weight": 0.990366249549744
+    },
+    {
+      "source": "cn02",
+      "target": "cn28",
+      "weight": 0.9898689802290713
+    },
+    {
+      "source": "cn02",
+      "target": "cn29",
+      "weight": 0.9921378029988162
+    },
+    {
+      "source": "cn02",
+      "target": "146743638.12652.12652",
+      "weight": 0.7279162138776935
+    },
+    {
+      "source": "cn02",
+      "target": "68000691.25417.25417",
+      "weight": 0.730930566264145
+    },
+    {
+      "source": "cn02",
+      "target": "158714043.10458.10458",
+      "weight": 0.7166179310290333
+    },
+    {
+      "source": "cn02",
+      "target": "408375548.1540.1540",
+      "weight": 0.9240251633345146
+    },
+    {
+      "source": "cn02",
+      "target": "623925770.1777.0",
+      "weight": 0.7306827039415726
+    },
+    {
+      "source": "cn02",
+      "target": "318141830.5953.5953",
+      "weight": 0.7037088071246257
+    },
+    {
+      "source": "cn03",
+      "target": "cn04",
+      "weight": 0.9869887300873034
+    },
+    {
+      "source": "cn03",
+      "target": "cn05",
+      "weight": 0.9842928678019534
+    },
+    {
+      "source": "cn03",
+      "target": "cn06",
+      "weight": 0.987295992504295
+    },
+    {
+      "source": "cn03",
+      "target": "cn07",
+      "weight": 0.9872825729565609
+    },
+    {
+      "source": "cn03",
+      "target": "cn08",
+      "weight": 0.9853167211836864
+    },
+    {
+      "source": "cn03",
+      "target": "cn09",
+      "weight": 0.9469288992021803
+    },
+    {
+      "source": "cn03",
+      "target": "cn10",
+      "weight": 0.9887861539307311
+    },
+    {
+      "source": "cn03",
+      "target": "cn11",
+      "weight": 0.9887955061303494
+    },
+    {
+      "source": "cn03",
+      "target": "cn12",
+      "weight": 0.9771827282891865
+    },
+    {
+      "source": "cn03",
+      "target": "cn13",
+      "weight": 0.9510375670649198
+    },
+    {
+      "source": "cn03",
+      "target": "cn14",
+      "weight": 0.9858380547288504
+    },
+    {
+      "source": "cn03",
+      "target": "cn15",
+      "weight": 0.9913771972834021
+    },
+    {
+      "source": "cn03",
+      "target": "cn16",
+      "weight": 0.9892275338577363
+    },
+    {
+      "source": "cn03",
+      "target": "cn17",
+      "weight": 0.9797127922688594
+    },
+    {
+      "source": "cn03",
+      "target": "cn18",
+      "weight": 0.9798910993820341
+    },
+    {
+      "source": "cn03",
+      "target": "cn19",
+      "weight": 0.9846418356365054
+    },
+    {
+      "source": "cn03",
+      "target": "cn20",
+      "weight": 0.9967627797358313
+    },
+    {
+      "source": "cn03",
+      "target": "cn21",
+      "weight": 0.9798594612817569
+    },
+    {
+      "source": "cn03",
+      "target": "cn22",
+      "weight": 0.997252704330394
+    },
+    {
+      "source": "cn03",
+      "target": "cn23",
+      "weight": 0.9811599381553131
+    },
+    {
+      "source": "cn03",
+      "target": "cn24",
+      "weight": 0.940244905732012
+    },
+    {
+      "source": "cn03",
+      "target": "cn25",
+      "weight": 0.9949923277973944
+    },
+    {
+      "source": "cn03",
+      "target": "cn26",
+      "weight": 0.9944789324589903
+    },
+    {
+      "source": "cn03",
+      "target": "cn27",
+      "weight": 0.9804367170205883
+    },
+    {
+      "source": "cn03",
+      "target": "cn28",
+      "weight": 0.9978603106605248
+    },
+    {
+      "source": "cn03",
+      "target": "cn29",
+      "weight": 0.9963350363349717
+    },
+    {
+      "source": "cn03",
+      "target": "146743638.12652.12652",
+      "weight": 0.700455464463881
+    },
+    {
+      "source": "cn03",
+      "target": "68000691.25417.25417",
+      "weight": 0.7025823098624804
+    },
+    {
+      "source": "cn03",
+      "target": "408375548.1540.1540",
+      "weight": 0.9122384028430348
+    },
+    {
+      "source": "cn03",
+      "target": "623925770.1777.0",
+      "weight": 0.7020419942545615
+    },
+    {
+      "source": "cn04",
+      "target": "cn05",
+      "weight": 0.9957665713042689
+    },
+    {
+      "source": "cn04",
+      "target": "cn06",
+      "weight": 0.9777789999414173
+    },
+    {
+      "source": "cn04",
+      "target": "cn07",
+      "weight": 0.9929311520600492
+    },
+    {
+      "source": "cn04",
+      "target": "cn08",
+      "weight": 0.9853086785426233
+    },
+    {
+      "source": "cn04",
+      "target": "cn09",
+      "weight": 0.9826414656309291
+    },
+    {
+      "source": "cn04",
+      "target": "cn10",
+      "weight": 0.995157418640244
+    },
+    {
+      "source": "cn04",
+      "target": "cn11",
+      "weight": 0.9827165856089551
+    },
+    {
+      "source": "cn04",
+      "target": "cn12",
+      "weight": 0.9970186233123843
+    },
+    {
+      "source": "cn04",
+      "target": "cn13",
+      "weight": 0.9866990905340384
+    },
+    {
+      "source": "cn04",
+      "target": "cn14",
+      "weight": 0.9977482067470741
+    },
+    {
+      "source": "cn04",
+      "target": "cn15",
+      "weight": 0.9654352965734627
+    },
+    {
+      "source": "cn04",
+      "target": "cn16",
+      "weight": 0.9941985550509026
+    },
+    {
+      "source": "cn04",
+      "target": "cn17",
+      "weight": 0.9934892325577003
+    },
+    {
+      "source": "cn04",
+      "target": "cn18",
+      "weight": 0.9889759190564492
+    },
+    {
+      "source": "cn04",
+      "target": "cn19",
+      "weight": 0.9942715712181199
+    },
+    {
+      "source": "cn04",
+      "target": "cn20",
+      "weight": 0.986503764994506
+    },
+    {
+      "source": "cn04",
+      "target": "cn21",
+      "weight": 0.9962413228995526
+    },
+    {
+      "source": "cn04",
+      "target": "cn22",
+      "weight": 0.9890952592207037
+    },
+    {
+      "source": "cn04",
+      "target": "cn23",
+      "weight": 0.9946486664327608
+    },
+    {
+      "source": "cn04",
+      "target": "cn24",
+      "weight": 0.9803556767700782
+    },
+    {
+      "source": "cn04",
+      "target": "cn25",
+      "weight": 0.975405834132616
+    },
+    {
+      "source": "cn04",
+      "target": "cn26",
+      "weight": 0.995689005073331
+    },
+    {
+      "source": "cn04",
+      "target": "cn27",
+      "weight": 0.9946680988652687
+    },
+    {
+      "source": "cn04",
+      "target": "cn28",
+      "weight": 0.9870931219421234
+    },
+    {
+      "source": "cn04",
+      "target": "cn29",
+      "weight": 0.9947455739685924
+    },
+    {
+      "source": "cn04",
+      "target": "cg01",
+      "weight": 0.711997557293295
+    },
+    {
+      "source": "cn04",
+      "target": "146743638.12652.12652",
+      "weight": 0.797027878957098
+    },
+    {
+      "source": "cn04",
+      "target": "66813686.23567.23567",
+      "weight": 0.7000789930804489
+    },
+    {
+      "source": "cn04",
+      "target": "68000691.25417.25417",
+      "weight": 0.7974471014692923
+    },
+    {
+      "source": "cn04",
+      "target": "158714043.10458.10458",
+      "weight": 0.7915129552671792
+    },
+    {
+      "source": "cn04",
+      "target": "240149353.16332.16332",
+      "weight": 0.7628407887532801
+    },
+    {
+      "source": "cn04",
+      "target": "200053269.20798.20798",
+      "weight": 0.7686990178732884
+    },
+    {
+      "source": "cn04",
+      "target": "408375548.1540.1540",
+      "weight": 0.9594019070579308
+    },
+    {
+      "source": "cn04",
+      "target": "623925770.1777.0",
+      "weight": 0.8014807722276575
+    },
+    {
+      "source": "cn04",
+      "target": "408841323.14594.14594",
+      "weight": 0.7280991983466771
+    },
+    {
+      "source": "cn04",
+      "target": "155716783.14696.14696",
+      "weight": 0.7649841658159986
+    },
+    {
+      "source": "cn04",
+      "target": "318141830.5953.5953",
+      "weight": 0.7449698497869429
+    },
+    {
+      "source": "cn05",
+      "target": "cn06",
+      "weight": 0.9849269041050813
+    },
+    {
+      "source": "cn05",
+      "target": "cn07",
+      "weight": 0.9950149843339606
+    },
+    {
+      "source": "cn05",
+      "target": "cn08",
+      "weight": 0.9879990726915735
+    },
+    {
+      "source": "cn05",
+      "target": "cn09",
+      "weight": 0.9835852285494593
+    },
+    {
+      "source": "cn05",
+      "target": "cn10",
+      "weight": 0.992940969569818
+    },
+    {
+      "source": "cn05",
+      "target": "cn11",
+      "weight": 0.9890636884115726
+    },
+    {
+      "source": "cn05",
+      "target": "cn12",
+      "weight": 0.9917050710073078
+    },
+    {
+      "source": "cn05",
+      "target": "cn13",
+      "weight": 0.9818372697817571
+    },
+    {
+      "source": "cn05",
+      "target": "cn14",
+      "weight": 0.9936694302193891
+    },
+    {
+      "source": "cn05",
+      "target": "cn15",
+      "weight": 0.9619637868823675
+    },
+    {
+      "source": "cn05",
+      "target": "cn16",
+      "weight": 0.9886604515464903
+    },
+    {
+      "source": "cn05",
+      "target": "cn17",
+      "weight": 0.9950193052143885
+    },
+    {
+      "source": "cn05",
+      "target": "cn18",
+      "weight": 0.9866130494096504
+    },
+    {
+      "source": "cn05",
+      "target": "cn19",
+      "weight": 0.9972164952709829
+    },
+    {
+      "source": "cn05",
+      "target": "cn20",
+      "weight": 0.9873163398383401
+    },
+    {
+      "source": "cn05",
+      "target": "cn21",
+      "weight": 0.9948778189857487
+    },
+    {
+      "source": "cn05",
+      "target": "cn22",
+      "weight": 0.9888477502132621
+    },
+    {
+      "source": "cn05",
+      "target": "cn23",
+      "weight": 0.9914379404680469
+    },
+    {
+      "source": "cn05",
+      "target": "cn24",
+      "weight": 0.9775895947603012
+    },
+    {
+      "source": "cn05",
+      "target": "cn25",
+      "weight": 0.9762415052956891
+    },
+    {
+      "source": "cn05",
+      "target": "cn26",
+      "weight": 0.9907866025924339
+    },
+    {
+      "source": "cn05",
+      "target": "cn27",
+      "weight": 0.9926751668898194
+    },
+    {
+      "source": "cn05",
+      "target": "cn28",
+      "weight": 0.9811239649204355
+    },
+    {
+      "source": "cn05",
+      "target": "cn29",
+      "weight": 0.9903678351670363
+    },
+    {
+      "source": "cn05",
+      "target": "cg01",
+      "weight": 0.7045126895457725
+    },
+    {
+      "source": "cn05",
+      "target": "146743638.12652.12652",
+      "weight": 0.7861250473972636
+    },
+    {
+      "source": "cn05",
+      "target": "68000691.25417.25417",
+      "weight": 0.7898879399359922
+    },
+    {
+      "source": "cn05",
+      "target": "158714043.10458.10458",
+      "weight": 0.7758424369945321
+    },
+    {
+      "source": "cn05",
+      "target": "240149353.16332.16332",
+      "weight": 0.74772509250337
+    },
+    {
+      "source": "cn05",
+      "target": "200053269.20798.20798",
+      "weight": 0.7501070808205703
+    },
+    {
+      "source": "cn05",
+      "target": "408375548.1540.1540",
+      "weight": 0.9498856811220106
+    },
+    {
+      "source": "cn05",
+      "target": "623925770.1777.0",
+      "weight": 0.7923406553730294
+    },
+    {
+      "source": "cn05",
+      "target": "408841323.14594.14594",
+      "weight": 0.7099788159680556
+    },
+    {
+      "source": "cn05",
+      "target": "155716783.14696.14696",
+      "weight": 0.7549356395153287
+    },
+    {
+      "source": "cn05",
+      "target": "318141830.5953.5953",
+      "weight": 0.7502564065961256
+    },
+    {
+      "source": "cn06",
+      "target": "cn07",
+      "weight": 0.9843819271632851
+    },
+    {
+      "source": "cn06",
+      "target": "cn08",
+      "weight": 0.9916771282103205
+    },
+    {
+      "source": "cn06",
+      "target": "cn09",
+      "weight": 0.9522266290001947
+    },
+    {
+      "source": "cn06",
+      "target": "cn10",
+      "weight": 0.9856119985598429
+    },
+    {
+      "source": "cn06",
+      "target": "cn11",
+      "weight": 0.9897395622146576
+    },
+    {
+      "source": "cn06",
+      "target": "cn12",
+      "weight": 0.9689244895287841
+    },
+    {
+      "source": "cn06",
+      "target": "cn13",
+      "weight": 0.9474588822901755
+    },
+    {
+      "source": "cn06",
+      "target": "cn14",
+      "weight": 0.9753586678467496
+    },
+    {
+      "source": "cn06",
+      "target": "cn15",
+      "weight": 0.9801477684569775
+    },
+    {
+      "source": "cn06",
+      "target": "cn16",
+      "weight": 0.9733013653342465
+    },
+    {
+      "source": "cn06",
+      "target": "cn17",
+      "weight": 0.9850455138235424
+    },
+    {
+      "source": "cn06",
+      "target": "cn18",
+      "weight": 0.9723906801146557
+    },
+    {
+      "source": "cn06",
+      "target": "cn19",
+      "weight": 0.9828642574100712
+    },
+    {
+      "source": "cn06",
+      "target": "cn20",
+      "weight": 0.9933177552886844
+    },
+    {
+      "source": "cn06",
+      "target": "cn21",
+      "weight": 0.9779368450997395
+    },
+    {
+      "source": "cn06",
+      "target": "cn22",
+      "weight": 0.9938452048036301
+    },
+    {
+      "source": "cn06",
+      "target": "cn23",
+      "weight": 0.9726012093144714
+    },
+    {
+      "source": "cn06",
+      "target": "cn24",
+      "weight": 0.9324733385744577
+    },
+    {
+      "source": "cn06",
+      "target": "cn25",
+      "weight": 0.9901862351395545
+    },
+    {
+      "source": "cn06",
+      "target": "cn26",
+      "weight": 0.9813685720385402
+    },
+    {
+      "source": "cn06",
+      "target": "cn27",
+      "weight": 0.9792758615007896
+    },
+    {
+      "source": "cn06",
+      "target": "cn28",
+      "weight": 0.982469035579016
+    },
+    {
+      "source": "cn06",
+      "target": "cn29",
+      "weight": 0.9832381944352047
+    },
+    {
+      "source": "cn06",
+      "target": "408375548.1540.1540",
+      "weight": 0.8979633984539751
+    },
+    {
+      "source": "cn07",
+      "target": "cn08",
+      "weight": 0.9898586584250335
+    },
+    {
+      "source": "cn07",
+      "target": "cn09",
+      "weight": 0.9731880610711452
+    },
+    {
+      "source": "cn07",
+      "target": "cn10",
+      "weight": 0.988978948861331
+    },
+    {
+      "source": "cn07",
+      "target": "cn11",
+      "weight": 0.9908953782502374
+    },
+    {
+      "source": "cn07",
+      "target": "cn12",
+      "weight": 0.98538981964882
+    },
+    {
+      "source": "cn07",
+      "target": "cn13",
+      "weight": 0.9687546376911074
+    },
+    {
+      "source": "cn07",
+      "target": "cn14",
+      "weight": 0.9928136999540011
+    },
+    {
+      "source": "cn07",
+      "target": "cn15",
+      "weight": 0.9719262433893829
+    },
+    {
+      "source": "cn07",
+      "target": "cn16",
+      "weight": 0.9826545918655799
+    },
+    {
+      "source": "cn07",
+      "target": "cn17",
+      "weight": 0.9902474356647579
+    },
+    {
+      "source": "cn07",
+      "target": "cn18",
+      "weight": 0.9878459431360332
+    },
+    {
+      "source": "cn07",
+      "target": "cn19",
+      "weight": 0.9981829314524443
+    },
+    {
+      "source": "cn07",
+      "target": "cn20",
+      "weight": 0.9920153931152196
+    },
+    {
+      "source": "cn07",
+      "target": "cn21",
+      "weight": 0.9947162761608873
+    },
+    {
+      "source": "cn07",
+      "target": "cn22",
+      "weight": 0.9913671022357216
+    },
+    {
+      "source": "cn07",
+      "target": "cn23",
+      "weight": 0.9877424752653433
+    },
+    {
+      "source": "cn07",
+      "target": "cn24",
+      "weight": 0.9689056819766253
+    },
+    {
+      "source": "cn07",
+      "target": "cn25",
+      "weight": 0.9836465221807177
+    },
+    {
+      "source": "cn07",
+      "target": "cn26",
+      "weight": 0.990946577425528
+    },
+    {
+      "source": "cn07",
+      "target": "cn27",
+      "weight": 0.9872417591229499
+    },
+    {
+      "source": "cn07",
+      "target": "cn28",
+      "weight": 0.9851280748065409
+    },
+    {
+      "source": "cn07",
+      "target": "cn29",
+      "weight": 0.990696741212133
+    },
+    {
+      "source": "cn07",
+      "target": "146743638.12652.12652",
+      "weight": 0.7637426416428115
+    },
+    {
+      "source": "cn07",
+      "target": "68000691.25417.25417",
+      "weight": 0.7595665091859555
+    },
+    {
+      "source": "cn07",
+      "target": "158714043.10458.10458",
+      "weight": 0.7516170329719543
+    },
+    {
+      "source": "cn07",
+      "target": "240149353.16332.16332",
+      "weight": 0.7223243348036125
+    },
+    {
+      "source": "cn07",
+      "target": "200053269.20798.20798",
+      "weight": 0.7264560480218974
+    },
+    {
+      "source": "cn07",
+      "target": "408375548.1540.1540",
+      "weight": 0.9383568006431144
+    },
+    {
+      "source": "cn07",
+      "target": "623925770.1777.0",
+      "weight": 0.7641378629062524
+    },
+    {
+      "source": "cn07",
+      "target": "408841323.14594.14594",
+      "weight": 0.7000682024148629
+    },
+    {
+      "source": "cn07",
+      "target": "155716783.14696.14696",
+      "weight": 0.7330512032372606
+    },
+    {
+      "source": "cn07",
+      "target": "318141830.5953.5953",
+      "weight": 0.719369786152653
+    },
+    {
+      "source": "cn08",
+      "target": "cn09",
+      "weight": 0.970132270017839
+    },
+    {
+      "source": "cn08",
+      "target": "cn10",
+      "weight": 0.9877181768410779
+    },
+    {
+      "source": "cn08",
+      "target": "cn11",
+      "weight": 0.9848988356952044
+    },
+    {
+      "source": "cn08",
+      "target": "cn12",
+      "weight": 0.9814092139687005
+    },
+    {
+      "source": "cn08",
+      "target": "cn13",
+      "weight": 0.9639328916285455
+    },
+    {
+      "source": "cn08",
+      "target": "cn14",
+      "weight": 0.9892286131369171
+    },
+    {
+      "source": "cn08",
+      "target": "cn15",
+      "weight": 0.9767887565369625
+    },
+    {
+      "source": "cn08",
+      "target": "cn16",
+      "weight": 0.978893470970959
+    },
+    {
+      "source": "cn08",
+      "target": "cn17",
+      "weight": 0.9930170539437637
+    },
+    {
+      "source": "cn08",
+      "target": "cn18",
+      "weight": 0.9908841344310797
+    },
+    {
+      "source": "cn08",
+      "target": "cn19",
+      "weight": 0.9892538619036113
+    },
+    {
+      "source": "cn08",
+      "target": "cn20",
+      "weight": 0.9930838184846293
+    },
+    {
+      "source": "cn08",
+      "target": "cn21",
+      "weight": 0.9888267703375696
+    },
+    {
+      "source": "cn08",
+      "target": "cn22",
+      "weight": 0.9920530204782761
+    },
+    {
+      "source": "cn08",
+      "target": "cn23",
+      "weight": 0.9853188080866597
+    },
+    {
+      "source": "cn08",
+      "target": "cn24",
+      "weight": 0.9556689322119705
+    },
+    {
+      "source": "cn08",
+      "target": "cn25",
+      "weight": 0.9855168430262279
+    },
+    {
+      "source": "cn08",
+      "target": "cn26",
+      "weight": 0.9879241665632702
+    },
+    {
+      "source": "cn08",
+      "target": "cn27",
+      "weight": 0.9868791874321314
+    },
+    {
+      "source": "cn08",
+      "target": "cn28",
+      "weight": 0.9847069302436731
+    },
+    {
+      "source": "cn08",
+      "target": "cn29",
+      "weight": 0.9846624547678031
+    },
+    {
+      "source": "cn08",
+      "target": "146743638.12652.12652",
+      "weight": 0.7451668354636669
+    },
+    {
+      "source": "cn08",
+      "target": "68000691.25417.25417",
+      "weight": 0.7400551860920472
+    },
+    {
+      "source": "cn08",
+      "target": "158714043.10458.10458",
+      "weight": 0.7236528063119136
+    },
+    {
+      "source": "cn08",
+      "target": "408375548.1540.1540",
+      "weight": 0.9291425386471711
+    },
+    {
+      "source": "cn08",
+      "target": "623925770.1777.0",
+      "weight": 0.743685426965137
+    },
+    {
+      "source": "cn08",
+      "target": "155716783.14696.14696",
+      "weight": 0.7165320782660065
+    },
+    {
+      "source": "cn08",
+      "target": "318141830.5953.5953",
+      "weight": 0.7289353710451018
+    },
+    {
+      "source": "cn09",
+      "target": "cn10",
+      "weight": 0.975346748682219
+    },
+    {
+      "source": "cn09",
+      "target": "cn11",
+      "weight": 0.9539180527601543
+    },
+    {
+      "source": "cn09",
+      "target": "cn12",
+      "weight": 0.9885835216047746
+    },
+    {
+      "source": "cn09",
+      "target": "cn13",
+      "weight": 0.9949040720769763
+    },
+    {
+      "source": "cn09",
+      "target": "cn14",
+      "weight": 0.982768485882089
+    },
+    {
+      "source": "cn09",
+      "target": "cn15",
+      "weight": 0.9150917505553434
+    },
+    {
+      "source": "cn09",
+      "target": "cn16",
+      "weight": 0.9677963692161288
+    },
+    {
+      "source": "cn09",
+      "target": "cn17",
+      "weight": 0.987897128064717
+    },
+    {
+      "source": "cn09",
+      "target": "cn18",
+      "weight": 0.9781543244757069
+    },
+    {
+      "source": "cn09",
+      "target": "cn19",
+      "weight": 0.9792962540546547
+    },
+    {
+      "source": "cn09",
+      "target": "cn20",
+      "weight": 0.9537678872535881
+    },
+    {
+      "source": "cn09",
+      "target": "cn21",
+      "weight": 0.9864460152424651
+    },
+    {
+      "source": "cn09",
+      "target": "cn22",
+      "weight": 0.9566493149046038
+    },
+    {
+      "source": "cn09",
+      "target": "cn23",
+      "weight": 0.9818549340960354
+    },
+    {
+      "source": "cn09",
+      "target": "cn24",
+      "weight": 0.9919931802562184
+    },
+    {
+      "source": "cn09",
+      "target": "cn25",
+      "weight": 0.9317124884611515
+    },
+    {
+      "source": "cn09",
+      "target": "cn26",
+      "weight": 0.9692269590855376
+    },
+    {
+      "source": "cn09",
+      "target": "cn27",
+      "weight": 0.9852098976168718
+    },
+    {
+      "source": "cn09",
+      "target": "cn28",
+      "weight": 0.9464640159862485
+    },
+    {
+      "source": "cn09",
+      "target": "cn29",
+      "weight": 0.9630225020633478
+    },
+    {
+      "source": "cn09",
+      "target": "cg01",
+      "weight": 0.8091742364976622
+    },
+    {
+      "source": "cn09",
+      "target": "146743638.12652.12652",
+      "weight": 0.868762144052951
+    },
+    {
+      "source": "cn09",
+      "target": "143890867.11926.11926",
+      "weight": 0.732678073301748
+    },
+    {
+      "source": "cn09",
+      "target": "66813686.23567.23567",
+      "weight": 0.8009428178260998
+    },
+    {
+      "source": "cn09",
+      "target": "68000691.25417.25417",
+      "weight": 0.8666831684238921
+    },
+    {
+      "source": "cn09",
+      "target": "95100799.58.76",
+      "weight": 0.7629290868554073
+    },
+    {
+      "source": "cn09",
+      "target": "14969685.9097.9097",
+      "weight": 0.704650140163157
+    },
+    {
+      "source": "cn09",
+      "target": "158714043.10458.10458",
+      "weight": 0.8585739541505333
+    },
+    {
+      "source": "cn09",
+      "target": "240149353.16332.16332",
+      "weight": 0.8422014654910686
+    },
+    {
+      "source": "cn09",
+      "target": "271340377.69106.69106",
+      "weight": 0.7680414231201662
+    },
+    {
+      "source": "cn09",
+      "target": "200053269.20798.20798",
+      "weight": 0.833294378118562
+    },
+    {
+      "source": "cn09",
+      "target": "200248222.21224.21224",
+      "weight": 0.7911402600865736
+    },
+    {
+      "source": "cn09",
+      "target": "193565323.8199.8199",
+      "weight": 0.7065848641531892
+    },
+    {
+      "source": "cn09",
+      "target": "193002106.7341.7341",
+      "weight": 0.7744433597285336
+    },
+    {
+      "source": "cn09",
+      "target": "322161962.9817.9817",
+      "weight": 0.7540288749907302
+    },
+    {
+      "source": "cn09",
+      "target": "408375548.1540.1540",
+      "weight": 0.9752357146821827
+    },
+    {
+      "source": "cn09",
+      "target": "623925770.1777.0",
+      "weight": 0.8746622689569675
+    },
+    {
+      "source": "cn09",
+      "target": "387118463.11252.11252",
+      "weight": 0.784531117012235
+    },
+    {
+      "source": "cn09",
+      "target": "408841323.14594.14594",
+      "weight": 0.7376413952251968
+    },
+    {
+      "source": "cn09",
+      "target": "155716783.14696.14696",
+      "weight": 0.8465334301210515
+    },
+    {
+      "source": "cn09",
+      "target": "155594817.14064.14064",
+      "weight": 0.7756553628495644
+    },
+    {
+      "source": "cn09",
+      "target": "95273157.1954.1954",
+      "weight": 0.7916394835059863
+    },
+    {
+      "source": "cn09",
+      "target": "83160877.1204.1204",
+      "weight": 0.7190765249475713
+    },
+    {
+      "source": "cn09",
+      "target": "318141830.5953.5953",
+      "weight": 0.8445305747149578
+    },
+    {
+      "source": "cn09",
+      "target": "325209973.9766.9766",
+      "weight": 0.7251211708164517
+    },
+    {
+      "source": "cn10",
+      "target": "cn11",
+      "weight": 0.9825506394283035
+    },
+    {
+      "source": "cn10",
+      "target": "cn12",
+      "weight": 0.9899159598139997
+    },
+    {
+      "source": "cn10",
+      "target": "cn13",
+      "weight": 0.9790661448972608
+    },
+    {
+      "source": "cn10",
+      "target": "cn14",
+      "weight": 0.9919464818775426
+    },
+    {
+      "source": "cn10",
+      "target": "cn15",
+      "weight": 0.9745983530552101
+    },
+    {
+      "source": "cn10",
+      "target": "cn16",
+      "weight": 0.9914846778905293
+    },
+    {
+      "source": "cn10",
+      "target": "cn17",
+      "weight": 0.9946909626048817
+    },
+    {
+      "source": "cn10",
+      "target": "cn18",
+      "weight": 0.9880169865595471
+    },
+    {
+      "source": "cn10",
+      "target": "cn19",
+      "weight": 0.9890021327930921
+    },
+    {
+      "source": "cn10",
+      "target": "cn20",
+      "weight": 0.988064029571456
+    },
+    {
+      "source": "cn10",
+      "target": "cn21",
+      "weight": 0.9911726776081643
+    },
+    {
+      "source": "cn10",
+      "target": "cn22",
+      "weight": 0.9910705054090678
+    },
+    {
+      "source": "cn10",
+      "target": "cn23",
+      "weight": 0.9841346942679382
+    },
+    {
+      "source": "cn10",
+      "target": "cn24",
+      "weight": 0.9653700403435742
+    },
+    {
+      "source": "cn10",
+      "target": "cn25",
+      "weight": 0.9777314610997424
+    },
+    {
+      "source": "cn10",
+      "target": "cn26",
+      "weight": 0.9928157206218035
+    },
+    {
+      "source": "cn10",
+      "target": "cn27",
+      "weight": 0.9967287078275053
+    },
+    {
+      "source": "cn10",
+      "target": "cn28",
+      "weight": 0.9864828839387467
+    },
+    {
+      "source": "cn10",
+      "target": "cn29",
+      "weight": 0.9918871786386807
+    },
+    {
+      "source": "cn10",
+      "target": "146743638.12652.12652",
+      "weight": 0.7571293777162927
+    },
+    {
+      "source": "cn10",
+      "target": "68000691.25417.25417",
+      "weight": 0.7695553236806841
+    },
+    {
+      "source": "cn10",
+      "target": "158714043.10458.10458",
+      "weight": 0.7544986866851908
+    },
+    {
+      "source": "cn10",
+      "target": "240149353.16332.16332",
+      "weight": 0.731407691717128
+    },
+    {
+      "source": "cn10",
+      "target": "200053269.20798.20798",
+      "weight": 0.7318444999138761
+    },
+    {
+      "source": "cn10",
+      "target": "408375548.1540.1540",
+      "weight": 0.9344909364519294
+    },
+    {
+      "source": "cn10",
+      "target": "623925770.1777.0",
+      "weight": 0.7723528372666781
+    },
+    {
+      "source": "cn10",
+      "target": "408841323.14594.14594",
+      "weight": 0.727418647344966
+    },
+    {
+      "source": "cn10",
+      "target": "155716783.14696.14696",
+      "weight": 0.7238964461799595
+    },
+    {
+      "source": "cn10",
+      "target": "318141830.5953.5953",
+      "weight": 0.7349680460600844
+    },
+    {
+      "source": "cn11",
+      "target": "cn12",
+      "weight": 0.9714049605730305
+    },
+    {
+      "source": "cn11",
+      "target": "cn13",
+      "weight": 0.9507906856221381
+    },
+    {
+      "source": "cn11",
+      "target": "cn14",
+      "weight": 0.9804067158479322
+    },
+    {
+      "source": "cn11",
+      "target": "cn15",
+      "weight": 0.9749062531633206
+    },
+    {
+      "source": "cn11",
+      "target": "cn16",
+      "weight": 0.9784663254785124
+    },
+    {
+      "source": "cn11",
+      "target": "cn17",
+      "weight": 0.9812826008972138
+    },
+    {
+      "source": "cn11",
+      "target": "cn18",
+      "weight": 0.9735049228316155
+    },
+    {
+      "source": "cn11",
+      "target": "cn19",
+      "weight": 0.9881932536948231
+    },
+    {
+      "source": "cn11",
+      "target": "cn20",
+      "weight": 0.9902952679199818
+    },
+    {
+      "source": "cn11",
+      "target": "cn21",
+      "weight": 0.9823277758516504
+    },
+    {
+      "source": "cn11",
+      "target": "cn22",
+      "weight": 0.989537116069862
+    },
+    {
+      "source": "cn11",
+      "target": "cn23",
+      "weight": 0.9777688406295447
+    },
+    {
+      "source": "cn11",
+      "target": "cn24",
+      "weight": 0.9480225151196245
+    },
+    {
+      "source": "cn11",
+      "target": "cn25",
+      "weight": 0.9866850054285661
+    },
+    {
+      "source": "cn11",
+      "target": "cn26",
+      "weight": 0.9858174204844022
+    },
+    {
+      "source": "cn11",
+      "target": "cn27",
+      "weight": 0.9749237681332907
+    },
+    {
+      "source": "cn11",
+      "target": "cn28",
+      "weight": 0.9827413981670333
+    },
+    {
+      "source": "cn11",
+      "target": "cn29",
+      "weight": 0.9862917041821851
+    },
+    {
+      "source": "cn11",
+      "target": "146743638.12652.12652",
+      "weight": 0.7184298558482662
+    },
+    {
+      "source": "cn11",
+      "target": "68000691.25417.25417",
+      "weight": 0.7172765125121732
+    },
+    {
+      "source": "cn11",
+      "target": "408375548.1540.1540",
+      "weight": 0.9113795281621713
+    },
+    {
+      "source": "cn11",
+      "target": "623925770.1777.0",
+      "weight": 0.7192594715685413
+    },
+    {
+      "source": "cn12",
+      "target": "cn13",
+      "weight": 0.9924798092885463
+    },
+    {
+      "source": "cn12",
+      "target": "cn14",
+      "weight": 0.9956836646576578
+    },
+    {
+      "source": "cn12",
+      "target": "cn15",
+      "weight": 0.9514852179082804
+    },
+    {
+      "source": "cn12",
+      "target": "cn16",
+      "weight": 0.9907001932793447
+    },
+    {
+      "source": "cn12",
+      "target": "cn17",
+      "weight": 0.991594287661514
+    },
+    {
+      "source": "cn12",
+      "target": "cn18",
+      "weight": 0.987138455045685
+    },
+    {
+      "source": "cn12",
+      "target": "cn19",
+      "weight": 0.9893451165095813
+    },
+    {
+      "source": "cn12",
+      "target": "cn20",
+      "weight": 0.9780120835232075
+    },
+    {
+      "source": "cn12",
+      "target": "cn21",
+      "weight": 0.993447736031098
+    },
+    {
+      "source": "cn12",
+      "target": "cn22",
+      "weight": 0.9814219228166364
+    },
+    {
+      "source": "cn12",
+      "target": "cn23",
+      "weight": 0.995352197345669
+    },
+    {
+      "source": "cn12",
+      "target": "cn24",
+      "weight": 0.9854551588810905
+    },
+    {
+      "source": "cn12",
+      "target": "cn25",
+      "weight": 0.9642047560243916
+    },
+    {
+      "source": "cn12",
+      "target": "cn26",
+      "weight": 0.9917372547231881
+    },
+    {
+      "source": "cn12",
+      "target": "cn27",
+      "weight": 0.9925750810857328
+    },
+    {
+      "source": "cn12",
+      "target": "cn28",
+      "weight": 0.979860093156941
+    },
+    {
+      "source": "cn12",
+      "target": "cn29",
+      "weight": 0.98938015392826
+    },
+    {
+      "source": "cn12",
+      "target": "cg01",
+      "weight": 0.7446594521113341
+    },
+    {
+      "source": "cn12",
+      "target": "146743638.12652.12652",
+      "weight": 0.8232438088935828
+    },
+    {
+      "source": "cn12",
+      "target": "66813686.23567.23567",
+      "weight": 0.7241979083649228
+    },
+    {
+      "source": "cn12",
+      "target": "68000691.25417.25417",
+      "weight": 0.8209690503350879
+    },
+    {
+      "source": "cn12",
+      "target": "158714043.10458.10458",
+      "weight": 0.8174017077491857
+    },
+    {
+      "source": "cn12",
+      "target": "240149353.16332.16332",
+      "weight": 0.7893163354901814
+    },
+    {
+      "source": "cn12",
+      "target": "271340377.69106.69106",
+      "weight": 0.7011762386079293
+    },
+    {
+      "source": "cn12",
+      "target": "200053269.20798.20798",
+      "weight": 0.794580689116333
+    },
+    {
+      "source": "cn12",
+      "target": "200248222.21224.21224",
+      "weight": 0.7267541597359473
+    },
+    {
+      "source": "cn12",
+      "target": "193002106.7341.7341",
+      "weight": 0.7135971617027406
+    },
+    {
+      "source": "cn12",
+      "target": "408375548.1540.1540",
+      "weight": 0.97260712316643
+    },
+    {
+      "source": "cn12",
+      "target": "623925770.1777.0",
+      "weight": 0.8280168643795678
+    },
+    {
+      "source": "cn12",
+      "target": "387118463.11252.11252",
+      "weight": 0.7146634354064603
+    },
+    {
+      "source": "cn12",
+      "target": "408841323.14594.14594",
+      "weight": 0.7446834756536611
+    },
+    {
+      "source": "cn12",
+      "target": "155716783.14696.14696",
+      "weight": 0.7956478372576821
+    },
+    {
+      "source": "cn12",
+      "target": "155594817.14064.14064",
+      "weight": 0.7077822416084832
+    },
+    {
+      "source": "cn12",
+      "target": "95273157.1954.1954",
+      "weight": 0.7274514015582334
+    },
+    {
+      "source": "cn12",
+      "target": "318141830.5953.5953",
+      "weight": 0.772662496667546
+    },
+    {
+      "source": "cn13",
+      "target": "cn14",
+      "weight": 0.9842674026110834
+    },
+    {
+      "source": "cn13",
+      "target": "cn15",
+      "weight": 0.9187244321862239
+    },
+    {
+      "source": "cn13",
+      "target": "cn16",
+      "weight": 0.978220491330425
+    },
+    {
+      "source": "cn13",
+      "target": "cn17",
+      "weight": 0.9851959532816541
+    },
+    {
+      "source": "cn13",
+      "target": "cn18",
+      "weight": 0.9756402166046177
+    },
+    {
+      "source": "cn13",
+      "target": "cn19",
+      "weight": 0.9749765166592067
+    },
+    {
+      "source": "cn13",
+      "target": "cn20",
+      "weight": 0.9520999351352981
+    },
+    {
+      "source": "cn13",
+      "target": "cn21",
+      "weight": 0.9853315062328472
+    },
+    {
+      "source": "cn13",
+      "target": "cn22",
+      "weight": 0.9572677942491623
+    },
+    {
+      "source": "cn13",
+      "target": "cn23",
+      "weight": 0.9832084874919531
+    },
+    {
+      "source": "cn13",
+      "target": "cn24",
+      "weight": 0.992039164074948
+    },
+    {
+      "source": "cn13",
+      "target": "cn25",
+      "weight": 0.9314765789129014
+    },
+    {
+      "source": "cn13",
+      "target": "cn26",
+      "weight": 0.9723186065856245
+    },
+    {
+      "source": "cn13",
+      "target": "cn27",
+      "weight": 0.986873161546873
+    },
+    {
+      "source": "cn13",
+      "target": "cn28",
+      "weight": 0.952156542764243
+    },
+    {
+      "source": "cn13",
+      "target": "cn29",
+      "weight": 0.9684299275923175
+    },
+    {
+      "source": "cn13",
+      "target": "cg01",
+      "weight": 0.8034829853039226
+    },
+    {
+      "source": "cn13",
+      "target": "146743638.12652.12652",
+      "weight": 0.8673589038640114
+    },
+    {
+      "source": "cn13",
+      "target": "143890867.11926.11926",
+      "weight": 0.7353104194973993
+    },
+    {
+      "source": "cn13",
+      "target": "66813686.23567.23567",
+      "weight": 0.786333255898608
+    },
+    {
+      "source": "cn13",
+      "target": "68000691.25417.25417",
+      "weight": 0.8731739896508508
+    },
+    {
+      "source": "cn13",
+      "target": "95100799.58.76",
+      "weight": 0.7542318643392562
+    },
+    {
+      "source": "cn13",
+      "target": "158714043.10458.10458",
+      "weight": 0.8653246528047835
+    },
+    {
+      "source": "cn13",
+      "target": "240149353.16332.16332",
+      "weight": 0.8464880234160568
+    },
+    {
+      "source": "cn13",
+      "target": "271340377.69106.69106",
+      "weight": 0.7744382985294044
+    },
+    {
+      "source": "cn13",
+      "target": "200053269.20798.20798",
+      "weight": 0.8473610846228824
+    },
+    {
+      "source": "cn13",
+      "target": "200248222.21224.21224",
+      "weight": 0.7734792227943219
+    },
+    {
+      "source": "cn13",
+      "target": "193002106.7341.7341",
+      "weight": 0.7821338214197836
+    },
+    {
+      "source": "cn13",
+      "target": "322161962.9817.9817",
+      "weight": 0.7486691926147193
+    },
+    {
+      "source": "cn13",
+      "target": "408375548.1540.1540",
+      "weight": 0.9792169395473534
+    },
+    {
+      "source": "cn13",
+      "target": "623925770.1777.0",
+      "weight": 0.8785045580391133
+    },
+    {
+      "source": "cn13",
+      "target": "387118463.11252.11252",
+      "weight": 0.7787318298916087
+    },
+    {
+      "source": "cn13",
+      "target": "408841323.14594.14594",
+      "weight": 0.7545866142905355
+    },
+    {
+      "source": "cn13",
+      "target": "155716783.14696.14696",
+      "weight": 0.8406458291163107
+    },
+    {
+      "source": "cn13",
+      "target": "155594817.14064.14064",
+      "weight": 0.7752627549466659
+    },
+    {
+      "source": "cn13",
+      "target": "95273157.1954.1954",
+      "weight": 0.7909158379121319
+    },
+    {
+      "source": "cn13",
+      "target": "83160877.1204.1204",
+      "weight": 0.7202891868663681
+    },
+    {
+      "source": "cn13",
+      "target": "318141830.5953.5953",
+      "weight": 0.8288778784496839
+    },
+    {
+      "source": "cn13",
+      "target": "325209973.9766.9766",
+      "weight": 0.7008604086236504
+    },
+    {
+      "source": "cn14",
+      "target": "cn15",
+      "weight": 0.9664632321990667
+    },
+    {
+      "source": "cn14",
+      "target": "cn16",
+      "weight": 0.9921647440847515
+    },
+    {
+      "source": "cn14",
+      "target": "cn17",
+      "weight": 0.993581160266564
+    },
+    {
+      "source": "cn14",
+      "target": "cn18",
+      "weight": 0.9948778385484301
+    },
+    {
+      "source": "cn14",
+      "target": "cn19",
+      "weight": 0.994272640375189
+    },
+    {
+      "source": "cn14",
+      "target": "cn20",
+      "weight": 0.9870461125270229
+    },
+    {
+      "source": "cn14",
+      "target": "cn21",
+      "weight": 0.9958631440218226
+    },
+    {
+      "source": "cn14",
+      "target": "cn22",
+      "weight": 0.9878617506842079
+    },
+    {
+      "source": "cn14",
+      "target": "cn23",
+      "weight": 0.9960354194618722
+    },
+    {
+      "source": "cn14",
+      "target": "cn24",
+      "weight": 0.9808901657406467
+    },
+    {
+      "source": "cn14",
+      "target": "cn25",
+      "weight": 0.9755322192756906
+    },
+    {
+      "source": "cn14",
+      "target": "cn26",
+      "weight": 0.995338639912906
+    },
+    {
+      "source": "cn14",
+      "target": "cn27",
+      "weight": 0.9934640119816005
+    },
+    {
+      "source": "cn14",
+      "target": "cn28",
+      "weight": 0.9870194371110402
+    },
+    {
+      "source": "cn14",
+      "target": "cn29",
+      "weight": 0.9921912515401378
+    },
+    {
+      "source": "cn14",
+      "target": "cg01",
+      "weight": 0.7174929935999508
+    },
+    {
+      "source": "cn14",
+      "target": "146743638.12652.12652",
+      "weight": 0.8016128558471156
+    },
+    {
+      "source": "cn14",
+      "target": "66813686.23567.23567",
+      "weight": 0.7080144010718967
+    },
+    {
+      "source": "cn14",
+      "target": "68000691.25417.25417",
+      "weight": 0.8000107673735135
+    },
+    {
+      "source": "cn14",
+      "target": "158714043.10458.10458",
+      "weight": 0.7912731279278051
+    },
+    {
+      "source": "cn14",
+      "target": "240149353.16332.16332",
+      "weight": 0.7616475542895091
+    },
+    {
+      "source": "cn14",
+      "target": "200053269.20798.20798",
+      "weight": 0.7643554539298165
+    },
+    {
+      "source": "cn14",
+      "target": "200248222.21224.21224",
+      "weight": 0.7093387618343029
+    },
+    {
+      "source": "cn14",
+      "target": "408375548.1540.1540",
+      "weight": 0.9619672869329337
+    },
+    {
+      "source": "cn14",
+      "target": "623925770.1777.0",
+      "weight": 0.8000381715891982
+    },
+    {
+      "source": "cn14",
+      "target": "408841323.14594.14594",
+      "weight": 0.7085558248644821
+    },
+    {
+      "source": "cn14",
+      "target": "155716783.14696.14696",
+      "weight": 0.772947316642299
+    },
+    {
+      "source": "cn14",
+      "target": "318141830.5953.5953",
+      "weight": 0.754782201273592
+    },
+    {
+      "source": "cn15",
+      "target": "cn16",
+      "weight": 0.9707653089741346
+    },
+    {
+      "source": "cn15",
+      "target": "cn17",
+      "weight": 0.9617611713239477
+    },
+    {
+      "source": "cn15",
+      "target": "cn18",
+      "weight": 0.9664864345829416
+    },
+    {
+      "source": "cn15",
+      "target": "cn19",
+      "weight": 0.9645408884404871
+    },
+    {
+      "source": "cn15",
+      "target": "cn20",
+      "weight": 0.9892285266221404
+    },
+    {
+      "source": "cn15",
+      "target": "cn21",
+      "weight": 0.9594010626272204
+    },
+    {
+      "source": "cn15",
+      "target": "cn22",
+      "weight": 0.9880229364694153
+    },
+    {
+      "source": "cn15",
+      "target": "cn23",
+      "weight": 0.9558714710268674
+    },
+    {
+      "source": "cn15",
+      "target": "cn24",
+      "weight": 0.9022652581084453
+    },
+    {
+      "source": "cn15",
+      "target": "cn25",
+      "weight": 0.9923582666344846
+    },
+    {
+      "source": "cn15",
+      "target": "cn26",
+      "weight": 0.9777171007587889
+    },
+    {
+      "source": "cn15",
+      "target": "cn27",
+      "weight": 0.9629594714958782
+    },
+    {
+      "source": "cn15",
+      "target": "cn28",
+      "weight": 0.9887872896771399
+    },
+    {
+      "source": "cn15",
+      "target": "cn29",
+      "weight": 0.9814909962186762
+    },
+    {
+      "source": "cn15",
+      "target": "408375548.1540.1540",
+      "weight": 0.8669264188404646
+    },
+    {
+      "source": "cn16",
+      "target": "cn17",
+      "weight": 0.9848883131893706
+    },
+    {
+      "source": "cn16",
+      "target": "cn18",
+      "weight": 0.9842228690720348
+    },
+    {
+      "source": "cn16",
+      "target": "cn19",
+      "weight": 0.9837594558184495
+    },
+    {
+      "source": "cn16",
+      "target": "cn20",
+      "weight": 0.9836073867086685
+    },
+    {
+      "source": "cn16",
+      "target": "cn21",
+      "weight": 0.9870601587549973
+    },
+    {
+      "source": "cn16",
+      "target": "cn22",
+      "weight": 0.98688743314891
+    },
+    {
+      "source": "cn16",
+      "target": "cn23",
+      "weight": 0.9886548349853876
+    },
+    {
+      "source": "cn16",
+      "target": "cn24",
+      "weight": 0.9668064352600901
+    },
+    {
+      "source": "cn16",
+      "target": "cn25",
+      "weight": 0.9750722032195532
+    },
+    {
+      "source": "cn16",
+      "target": "cn26",
+      "weight": 0.9933843614467031
+    },
+    {
+      "source": "cn16",
+      "target": "cn27",
+      "weight": 0.9886300194558382
+    },
+    {
+      "source": "cn16",
+      "target": "cn28",
+      "weight": 0.9890911894466995
+    },
+    {
+      "source": "cn16",
+      "target": "cn29",
+      "weight": 0.9939373511658046
+    },
+    {
+      "source": "cn16",
+      "target": "146743638.12652.12652",
+      "weight": 0.7705977988048613
+    },
+    {
+      "source": "cn16",
+      "target": "68000691.25417.25417",
+      "weight": 0.7851618642059724
+    },
+    {
+      "source": "cn16",
+      "target": "158714043.10458.10458",
+      "weight": 0.7630542292791217
+    },
+    {
+      "source": "cn16",
+      "target": "240149353.16332.16332",
+      "weight": 0.737812347253049
+    },
+    {
+      "source": "cn16",
+      "target": "200053269.20798.20798",
+      "weight": 0.7484175194533706
+    },
+    {
+      "source": "cn16",
+      "target": "408375548.1540.1540",
+      "weight": 0.9458543206754189
+    },
+    {
+      "source": "cn16",
+      "target": "623925770.1777.0",
+      "weight": 0.7796669746786673
+    },
+    {
+      "source": "cn16",
+      "target": "408841323.14594.14594",
+      "weight": 0.7247882053494714
+    },
+    {
+      "source": "cn16",
+      "target": "155716783.14696.14696",
+      "weight": 0.7367422372647734
+    },
+    {
+      "source": "cn16",
+      "target": "318141830.5953.5953",
+      "weight": 0.7177578246850058
+    },
+    {
+      "source": "cn17",
+      "target": "cn18",
+      "weight": 0.9913161303454024
+    },
+    {
+      "source": "cn17",
+      "target": "cn19",
+      "weight": 0.9918290566567611
+    },
+    {
+      "source": "cn17",
+      "target": "cn20",
+      "weight": 0.9845890337652152
+    },
+    {
+      "source": "cn17",
+      "target": "cn21",
+      "weight": 0.9951688969333082
+    },
+    {
+      "source": "cn17",
+      "target": "cn22",
+      "weight": 0.9864136122192659
+    },
+    {
+      "source": "cn17",
+      "target": "cn23",
+      "weight": 0.9888321359955192
+    },
+    {
+      "source": "cn17",
+      "target": "cn24",
+      "weight": 0.9755906001932848
+    },
+    {
+      "source": "cn17",
+      "target": "cn25",
+      "weight": 0.9712804608964128
+    },
+    {
+      "source": "cn17",
+      "target": "cn26",
+      "weight": 0.9884718656742212
+    },
+    {
+      "source": "cn17",
+      "target": "cn27",
+      "weight": 0.9967911467725861
+    },
+    {
+      "source": "cn17",
+      "target": "cn28",
+      "weight": 0.9777186202357986
+    },
+    {
+      "source": "cn17",
+      "target": "cn29",
+      "weight": 0.9851907216320522
+    },
+    {
+      "source": "cn17",
+      "target": "cg01",
+      "weight": 0.7169128129747866
+    },
+    {
+      "source": "cn17",
+      "target": "146743638.12652.12652",
+      "weight": 0.7920463779093407
+    },
+    {
+      "source": "cn17",
+      "target": "66813686.23567.23567",
+      "weight": 0.7258626525652518
+    },
+    {
+      "source": "cn17",
+      "target": "68000691.25417.25417",
+      "weight": 0.7940682531359553
+    },
+    {
+      "source": "cn17",
+      "target": "158714043.10458.10458",
+      "weight": 0.7801282689214231
+    },
+    {
+      "source": "cn17",
+      "target": "240149353.16332.16332",
+      "weight": 0.7598795745555229
+    },
+    {
+      "source": "cn17",
+      "target": "200053269.20798.20798",
+      "weight": 0.754365235353976
+    },
+    {
+      "source": "cn17",
+      "target": "200248222.21224.21224",
+      "weight": 0.71071486931984
+    },
+    {
+      "source": "cn17",
+      "target": "408375548.1540.1540",
+      "weight": 0.9492332342601996
+    },
+    {
+      "source": "cn17",
+      "target": "623925770.1777.0",
+      "weight": 0.8016084079154664
+    },
+    {
+      "source": "cn17",
+      "target": "408841323.14594.14594",
+      "weight": 0.7043553930149036
+    },
+    {
+      "source": "cn17",
+      "target": "155716783.14696.14696",
+      "weight": 0.7610119411520736
+    },
+    {
+      "source": "cn17",
+      "target": "318141830.5953.5953",
+      "weight": 0.777629862398221
+    },
+    {
+      "source": "cn18",
+      "target": "cn19",
+      "weight": 0.9886336703448156
+    },
+    {
+      "source": "cn18",
+      "target": "cn20",
+      "weight": 0.9833532827973342
+    },
+    {
+      "source": "cn18",
+      "target": "cn21",
+      "weight": 0.9911188769671024
+    },
+    {
+      "source": "cn18",
+      "target": "cn22",
+      "weight": 0.9823775445238314
+    },
+    {
+      "source": "cn18",
+      "target": "cn23",
+      "weight": 0.9859416078181389
+    },
+    {
+      "source": "cn18",
+      "target": "cn24",
+      "weight": 0.9729215621024552
+    },
+    {
+      "source": "cn18",
+      "target": "cn25",
+      "weight": 0.9700256404212992
+    },
+    {
+      "source": "cn18",
+      "target": "cn26",
+      "weight": 0.9883558294111983
+    },
+    {
+      "source": "cn18",
+      "target": "cn27",
+      "weight": 0.9908239821128028
+    },
+    {
+      "source": "cn18",
+      "target": "cn28",
+      "weight": 0.9801165384833084
+    },
+    {
+      "source": "cn18",
+      "target": "cn29",
+      "weight": 0.9825536215070647
+    },
+    {
+      "source": "cn18",
+      "target": "cg01",
+      "weight": 0.7079434632156346
+    },
+    {
+      "source": "cn18",
+      "target": "146743638.12652.12652",
+      "weight": 0.7882023780860401
+    },
+    {
+      "source": "cn18",
+      "target": "66813686.23567.23567",
+      "weight": 0.7224889725832182
+    },
+    {
+      "source": "cn18",
+      "target": "68000691.25417.25417",
+      "weight": 0.7957060202786274
+    },
+    {
+      "source": "cn18",
+      "target": "158714043.10458.10458",
+      "weight": 0.7720303109648569
+    },
+    {
+      "source": "cn18",
+      "target": "240149353.16332.16332",
+      "weight": 0.7486595769813917
+    },
+    {
+      "source": "cn18",
+      "target": "200053269.20798.20798",
+      "weight": 0.7445744096425287
+    },
+    {
+      "source": "cn18",
+      "target": "200248222.21224.21224",
+      "weight": 0.7298707023663441
+    },
+    {
+      "source": "cn18",
+      "target": "408375548.1540.1540",
+      "weight": 0.9462433878735298
+    },
+    {
+      "source": "cn18",
+      "target": "623925770.1777.0",
+      "weight": 0.7856808891604055
+    },
+    {
+      "source": "cn18",
+      "target": "408841323.14594.14594",
+      "weight": 0.7084536524664411
+    },
+    {
+      "source": "cn18",
+      "target": "155716783.14696.14696",
+      "weight": 0.7614174575714567
+    },
+    {
+      "source": "cn18",
+      "target": "318141830.5953.5953",
+      "weight": 0.76564707946712
+    },
+    {
+      "source": "cn19",
+      "target": "cn20",
+      "weight": 0.990052099782891
+    },
+    {
+      "source": "cn19",
+      "target": "cn21",
+      "weight": 0.9948672541615283
+    },
+    {
+      "source": "cn19",
+      "target": "cn22",
+      "weight": 0.9899204978760171
+    },
+    {
+      "source": "cn19",
+      "target": "cn23",
+      "weight": 0.9911076901347697
+    },
+    {
+      "source": "cn19",
+      "target": "cn24",
+      "weight": 0.975246135516218
+    },
+    {
+      "source": "cn19",
+      "target": "cn25",
+      "weight": 0.9798910807246127
+    },
+    {
+      "source": "cn19",
+      "target": "cn26",
+      "weight": 0.9904975966069677
+    },
+    {
+      "source": "cn19",
+      "target": "cn27",
+      "weight": 0.9897953497793801
+    },
+    {
+      "source": "cn19",
+      "target": "cn28",
+      "weight": 0.9827482157319084
+    },
+    {
+      "source": "cn19",
+      "target": "cn29",
+      "weight": 0.990084921267652
+    },
+    {
+      "source": "cn19",
+      "target": "146743638.12652.12652",
+      "weight": 0.780775714381164
+    },
+    {
+      "source": "cn19",
+      "target": "68000691.25417.25417",
+      "weight": 0.778716181839252
+    },
+    {
+      "source": "cn19",
+      "target": "158714043.10458.10458",
+      "weight": 0.7694731837003685
+    },
+    {
+      "source": "cn19",
+      "target": "240149353.16332.16332",
+      "weight": 0.7371618446930222
+    },
+    {
+      "source": "cn19",
+      "target": "200053269.20798.20798",
+      "weight": 0.7408262994800221
+    },
+    {
+      "source": "cn19",
+      "target": "408375548.1540.1540",
+      "weight": 0.9484861731850681
+    },
+    {
+      "source": "cn19",
+      "target": "623925770.1777.0",
+      "weight": 0.7772643759013733
+    },
+    {
+      "source": "cn19",
+      "target": "155716783.14696.14696",
+      "weight": 0.7527920991581932
+    },
+    {
+      "source": "cn19",
+      "target": "318141830.5953.5953",
+      "weight": 0.7376121467684836
+    },
+    {
+      "source": "cn20",
+      "target": "cn21",
+      "weight": 0.983806312941662
+    },
+    {
+      "source": "cn20",
+      "target": "cn22",
+      "weight": 0.9992672259249374
+    },
+    {
+      "source": "cn20",
+      "target": "cn23",
+      "weight": 0.9832857366323824
+    },
+    {
+      "source": "cn20",
+      "target": "cn24",
+      "weight": 0.9428733932137413
+    },
+    {
+      "source": "cn20",
+      "target": "cn25",
+      "weight": 0.9972076150019641
+    },
+    {
+      "source": "cn20",
+      "target": "cn26",
+      "weight": 0.9922650411869363
+    },
+    {
+      "source": "cn20",
+      "target": "cn27",
+      "weight": 0.9826440834576657
+    },
+    {
+      "source": "cn20",
+      "target": "cn28",
+      "weight": 0.9951221329165246
+    },
+    {
+      "source": "cn20",
+      "target": "cn29",
+      "weight": 0.9939680814474757
+    },
+    {
+      "source": "cn20",
+      "target": "146743638.12652.12652",
+      "weight": 0.7059250404791227
+    },
+    {
+      "source": "cn20",
+      "target": "68000691.25417.25417",
+      "weight": 0.7029178641278426
+    },
+    {
+      "source": "cn20",
+      "target": "408375548.1540.1540",
+      "weight": 0.9151438272844707
+    },
+    {
+      "source": "cn20",
+      "target": "623925770.1777.0",
+      "weight": 0.7039185116263899
+    },
+    {
+      "source": "cn21",
+      "target": "cn22",
+      "weight": 0.9852454905905677
+    },
+    {
+      "source": "cn21",
+      "target": "cn23",
+      "weight": 0.9915961801026406
+    },
+    {
+      "source": "cn21",
+      "target": "cn24",
+      "weight": 0.9826740516499926
+    },
+    {
+      "source": "cn21",
+      "target": "cn25",
+      "weight": 0.9708658412936575
+    },
+    {
+      "source": "cn21",
+      "target": "cn26",
+      "weight": 0.9901341254954343
+    },
+    {
+      "source": "cn21",
+      "target": "cn27",
+      "weight": 0.9929374360623813
+    },
+    {
+      "source": "cn21",
+      "target": "cn28",
+      "weight": 0.9797929963816936
+    },
+    {
+      "source": "cn21",
+      "target": "cn29",
+      "weight": 0.9874923000218933
+    },
+    {
+      "source": "cn21",
+      "target": "cg01",
+      "weight": 0.7271155677730476
+    },
+    {
+      "source": "cn21",
+      "target": "146743638.12652.12652",
+      "weight": 0.80810050784117
+    },
+    {
+      "source": "cn21",
+      "target": "66813686.23567.23567",
+      "weight": 0.7234560544101907
+    },
+    {
+      "source": "cn21",
+      "target": "68000691.25417.25417",
+      "weight": 0.8064932100908521
+    },
+    {
+      "source": "cn21",
+      "target": "158714043.10458.10458",
+      "weight": 0.7943047740021403
+    },
+    {
+      "source": "cn21",
+      "target": "240149353.16332.16332",
+      "weight": 0.7716632251581879
+    },
+    {
+      "source": "cn21",
+      "target": "200053269.20798.20798",
+      "weight": 0.7739072927175612
+    },
+    {
+      "source": "cn21",
+      "target": "200248222.21224.21224",
+      "weight": 0.7218795343469208
+    },
+    {
+      "source": "cn21",
+      "target": "408375548.1540.1540",
+      "weight": 0.957741918070543
+    },
+    {
+      "source": "cn21",
+      "target": "623925770.1777.0",
+      "weight": 0.810695187165775
+    },
+    {
+      "source": "cn21",
+      "target": "408841323.14594.14594",
+      "weight": 0.717984765374041
+    },
+    {
+      "source": "cn21",
+      "target": "155716783.14696.14696",
+      "weight": 0.7769245283577884
+    },
+    {
+      "source": "cn21",
+      "target": "95273157.1954.1954",
+      "weight": 0.7054772185158947
+    },
+    {
+      "source": "cn21",
+      "target": "318141830.5953.5953",
+      "weight": 0.768166141236846
+    },
+    {
+      "source": "cn22",
+      "target": "cn23",
+      "weight": 0.9846081921524243
+    },
+    {
+      "source": "cn22",
+      "target": "cn24",
+      "weight": 0.9453361997450829
+    },
+    {
+      "source": "cn22",
+      "target": "cn25",
+      "weight": 0.9961071594581772
+    },
+    {
+      "source": "cn22",
+      "target": "cn26",
+      "weight": 0.9936359800978732
+    },
+    {
+      "source": "cn22",
+      "target": "cn27",
+      "weight": 0.9855523698445937
+    },
+    {
+      "source": "cn22",
+      "target": "cn28",
+      "weight": 0.9959311959068233
+    },
+    {
+      "source": "cn22",
+      "target": "cn29",
+      "weight": 0.9959630890099666
+    },
+    {
+      "source": "cn22",
+      "target": "146743638.12652.12652",
+      "weight": 0.7112015773581565
+    },
+    {
+      "source": "cn22",
+      "target": "68000691.25417.25417",
+      "weight": 0.7099515390061902
+    },
+    {
+      "source": "cn22",
+      "target": "408375548.1540.1540",
+      "weight": 0.9189681466782245
+    },
+    {
+      "source": "cn22",
+      "target": "623925770.1777.0",
+      "weight": 0.713669405412958
+    },
+    {
+      "source": "cn23",
+      "target": "cn24",
+      "weight": 0.9808863819612076
+    },
+    {
+      "source": "cn23",
+      "target": "cn25",
+      "weight": 0.9732237618476386
+    },
+    {
+      "source": "cn23",
+      "target": "cn26",
+      "weight": 0.9925574850266817
+    },
+    {
+      "source": "cn23",
+      "target": "cn27",
+      "weight": 0.985647051730942
+    },
+    {
+      "source": "cn23",
+      "target": "cn28",
+      "weight": 0.9839836302789333
+    },
+    {
+      "source": "cn23",
+      "target": "cn29",
+      "weight": 0.9898085058700608
+    },
+    {
+      "source": "cn23",
+      "target": "cg01",
+      "weight": 0.725382461166787
+    },
+    {
+      "source": "cn23",
+      "target": "146743638.12652.12652",
+      "weight": 0.8140331710843752
+    },
+    {
+      "source": "cn23",
+      "target": "68000691.25417.25417",
+      "weight": 0.7980334962256621
+    },
+    {
+      "source": "cn23",
+      "target": "158714043.10458.10458",
+      "weight": 0.7991794812746398
+    },
+    {
+      "source": "cn23",
+      "target": "240149353.16332.16332",
+      "weight": 0.7620430697683443
+    },
+    {
+      "source": "cn23",
+      "target": "200053269.20798.20798",
+      "weight": 0.768639033793294
+    },
+    {
+      "source": "cn23",
+      "target": "408375548.1540.1540",
+      "weight": 0.971980424495701
+    },
+    {
+      "source": "cn23",
+      "target": "623925770.1777.0",
+      "weight": 0.8054431615536959
+    },
+    {
+      "source": "cn23",
+      "target": "155716783.14696.14696",
+      "weight": 0.783861086444222
+    },
+    {
+      "source": "cn23",
+      "target": "95273157.1954.1954",
+      "weight": 0.7031101598136476
+    },
+    {
+      "source": "cn23",
+      "target": "318141830.5953.5953",
+      "weight": 0.748577745315579
+    },
+    {
+      "source": "cn24",
+      "target": "cn25",
+      "weight": 0.9212546926647659
+    },
+    {
+      "source": "cn24",
+      "target": "cn26",
+      "weight": 0.9657983613182394
+    },
+    {
+      "source": "cn24",
+      "target": "cn27",
+      "weight": 0.9737053662958377
+    },
+    {
+      "source": "cn24",
+      "target": "cn28",
+      "weight": 0.9421166557828969
+    },
+    {
+      "source": "cn24",
+      "target": "cn29",
+      "weight": 0.9581638625492956
+    },
+    {
+      "source": "cn24",
+      "target": "cg01",
+      "weight": 0.8266934333556905
+    },
+    {
+      "source": "cn24",
+      "target": "146743638.12652.12652",
+      "weight": 0.8930737595493311
+    },
+    {
+      "source": "cn24",
+      "target": "143890867.11926.11926",
+      "weight": 0.7598767429289809
+    },
+    {
+      "source": "cn24",
+      "target": "66813686.23567.23567",
+      "weight": 0.787572692954958
+    },
+    {
+      "source": "cn24",
+      "target": "68000691.25417.25417",
+      "weight": 0.8880845975846771
+    },
+    {
+      "source": "cn24",
+      "target": "95100799.58.76",
+      "weight": 0.7674123795349181
+    },
+    {
+      "source": "cn24",
+      "target": "14969685.9097.9097",
+      "weight": 0.7202785747778736
+    },
+    {
+      "source": "cn24",
+      "target": "158714043.10458.10458",
+      "weight": 0.8851618144082257
+    },
+    {
+      "source": "cn24",
+      "target": "240149353.16332.16332",
+      "weight": 0.8541720185045992
+    },
+    {
+      "source": "cn24",
+      "target": "241131342.18768.18523",
+      "weight": 0.7145278426292329
+    },
+    {
+      "source": "cn24",
+      "target": "271340377.69106.69106",
+      "weight": 0.7783246119228228
+    },
+    {
+      "source": "cn24",
+      "target": "200053269.20798.20798",
+      "weight": 0.8577234332859887
+    },
+    {
+      "source": "cn24",
+      "target": "200248222.21224.21224",
+      "weight": 0.7995817271063579
+    },
+    {
+      "source": "cn24",
+      "target": "193565323.8199.8199",
+      "weight": 0.703363345088151
+    },
+    {
+      "source": "cn24",
+      "target": "193002106.7341.7341",
+      "weight": 0.7912308162622985
+    },
+    {
+      "source": "cn24",
+      "target": "322161962.9817.9817",
+      "weight": 0.7701192193971182
+    },
+    {
+      "source": "cn24",
+      "target": "408375548.1540.1540",
+      "weight": 0.986211326088702
+    },
+    {
+      "source": "cn24",
+      "target": "623925770.1777.0",
+      "weight": 0.888796646436522
+    },
+    {
+      "source": "cn24",
+      "target": "387118463.11252.11252",
+      "weight": 0.799533737389654
+    },
+    {
+      "source": "cn24",
+      "target": "408841323.14594.14594",
+      "weight": 0.7383776996756104
+    },
+    {
+      "source": "cn24",
+      "target": "155716783.14696.14696",
+      "weight": 0.8677625518287525
+    },
+    {
+      "source": "cn24",
+      "target": "155594817.14064.14064",
+      "weight": 0.7895477205255326
+    },
+    {
+      "source": "cn24",
+      "target": "95273157.1954.1954",
+      "weight": 0.8100471448078653
+    },
+    {
+      "source": "cn24",
+      "target": "83160877.1204.1204",
+      "weight": 0.7438936419462714
+    },
+    {
+      "source": "cn24",
+      "target": "318141830.5953.5953",
+      "weight": 0.8330843476483263
+    },
+    {
+      "source": "cn24",
+      "target": "325209973.9766.9766",
+      "weight": 0.7319824923644191
+    },
+    {
+      "source": "cn25",
+      "target": "cn26",
+      "weight": 0.9852791521289606
+    },
+    {
+      "source": "cn25",
+      "target": "cn27",
+      "weight": 0.9681548331315123
+    },
+    {
+      "source": "cn25",
+      "target": "cn28",
+      "weight": 0.9938932735559369
+    },
+    {
+      "source": "cn25",
+      "target": "cn29",
+      "weight": 0.9888971518670053
+    },
+    {
+      "source": "cn25",
+      "target": "408375548.1540.1540",
+      "weight": 0.8940271478995234
+    },
+    {
+      "source": "cn26",
+      "target": "cn27",
+      "weight": 0.98815707894192
+    },
+    {
+      "source": "cn26",
+      "target": "cn28",
+      "weight": 0.9956173304606052
+    },
+    {
+      "source": "cn26",
+      "target": "cn29",
+      "weight": 0.9972965846848905
+    },
+    {
+      "source": "cn26",
+      "target": "146743638.12652.12652",
+      "weight": 0.7618944888002207
+    },
+    {
+      "source": "cn26",
+      "target": "68000691.25417.25417",
+      "weight": 0.7566386073196678
+    },
+    {
+      "source": "cn26",
+      "target": "158714043.10458.10458",
+      "weight": 0.7511321657113387
+    },
+    {
+      "source": "cn26",
+      "target": "240149353.16332.16332",
+      "weight": 0.7180682556697037
+    },
+    {
+      "source": "cn26",
+      "target": "200053269.20798.20798",
+      "weight": 0.7224967364231545
+    },
+    {
+      "source": "cn26",
+      "target": "408375548.1540.1540",
+      "weight": 0.9450791274133189
+    },
+    {
+      "source": "cn26",
+      "target": "623925770.1777.0",
+      "weight": 0.7631660100767362
+    },
+    {
+      "source": "cn26",
+      "target": "408841323.14594.14594",
+      "weight": 0.7113861732841987
+    },
+    {
+      "source": "cn26",
+      "target": "155716783.14696.14696",
+      "weight": 0.7293373733486006
+    },
+    {
+      "source": "cn26",
+      "target": "318141830.5953.5953",
+      "weight": 0.7066138317348383
+    },
+    {
+      "source": "cn27",
+      "target": "cn28",
+      "weight": 0.9783317939584408
+    },
+    {
+      "source": "cn27",
+      "target": "cn29",
+      "weight": 0.9871432719627458
+    },
+    {
+      "source": "cn27",
+      "target": "cg01",
+      "weight": 0.7138434917008194
+    },
+    {
+      "source": "cn27",
+      "target": "146743638.12652.12652",
+      "weight": 0.7876154560751539
+    },
+    {
+      "source": "cn27",
+      "target": "66813686.23567.23567",
+      "weight": 0.7311845898523053
+    },
+    {
+      "source": "cn27",
+      "target": "68000691.25417.25417",
+      "weight": 0.8025366335830657
+    },
+    {
+      "source": "cn27",
+      "target": "158714043.10458.10458",
+      "weight": 0.7837261596064565
+    },
+    {
+      "source": "cn27",
+      "target": "240149353.16332.16332",
+      "weight": 0.7676738809644501
+    },
+    {
+      "source": "cn27",
+      "target": "200053269.20798.20798",
+      "weight": 0.7634241582327479
+    },
+    {
+      "source": "cn27",
+      "target": "200248222.21224.21224",
+      "weight": 0.7180186484021236
+    },
+    {
+      "source": "cn27",
+      "target": "408375548.1540.1540",
+      "weight": 0.9471755438753995
+    },
+    {
+      "source": "cn27",
+      "target": "623925770.1777.0",
+      "weight": 0.8001136461391921
+    },
+    {
+      "source": "cn27",
+      "target": "408841323.14594.14594",
+      "weight": 0.7286029498433947
+    },
+    {
+      "source": "cn27",
+      "target": "155716783.14696.14696",
+      "weight": 0.759775068045372
+    },
+    {
+      "source": "cn27",
+      "target": "318141830.5953.5953",
+      "weight": 0.774004961114193
+    },
+    {
+      "source": "cn28",
+      "target": "cn29",
+      "weight": 0.9961297651414869
+    },
+    {
+      "source": "cn28",
+      "target": "146743638.12652.12652",
+      "weight": 0.7101578796638701
+    },
+    {
+      "source": "cn28",
+      "target": "68000691.25417.25417",
+      "weight": 0.7051464856958892
+    },
+    {
+      "source": "cn28",
+      "target": "408375548.1540.1540",
+      "weight": 0.921452938533881
+    },
+    {
+      "source": "cn28",
+      "target": "623925770.1777.0",
+      "weight": 0.7100863850157976
+    },
+    {
+      "source": "cn29",
+      "target": "146743638.12652.12652",
+      "weight": 0.7422937578642032
+    },
+    {
+      "source": "cn29",
+      "target": "68000691.25417.25417",
+      "weight": 0.7426452623953326
+    },
+    {
+      "source": "cn29",
+      "target": "158714043.10458.10458",
+      "weight": 0.735567311775123
+    },
+    {
+      "source": "cn29",
+      "target": "240149353.16332.16332",
+      "weight": 0.7060162186460699
+    },
+    {
+      "source": "cn29",
+      "target": "200053269.20798.20798",
+      "weight": 0.7142281896007
+    },
+    {
+      "source": "cn29",
+      "target": "408375548.1540.1540",
+      "weight": 0.9372969388203083
+    },
+    {
+      "source": "cn29",
+      "target": "623925770.1777.0",
+      "weight": 0.7478180549274042
+    },
+    {
+      "source": "cn29",
+      "target": "408841323.14594.14594",
+      "weight": 0.7183860022441333
+    },
+    {
+      "source": "cn29",
+      "target": "155716783.14696.14696",
+      "weight": 0.7085712332305644
+    },
+    {
+      "source": "cg01",
+      "target": "146743638.12652.12652",
+      "weight": 0.9779935848459992
+    },
+    {
+      "source": "cg01",
+      "target": "143890867.11926.11926",
+      "weight": 0.9833486464095261
+    },
+    {
+      "source": "cg01",
+      "target": "127296808.516.516",
+      "weight": 0.8368655764805984
+    },
+    {
+      "source": "cg01",
+      "target": "144643838.1236.1236",
+      "weight": 0.8122307510090755
+    },
+    {
+      "source": "cg01",
+      "target": "66813686.23567.23567",
+      "weight": 0.9174723650764358
+    },
+    {
+      "source": "cg01",
+      "target": "68000691.25417.25417",
+      "weight": 0.9576521142578059
+    },
+    {
+      "source": "cg01",
+      "target": "95100799.58.76",
+      "weight": 0.9731985151147138
+    },
+    {
+      "source": "cg01",
+      "target": "14969685.9097.9097",
+      "weight": 0.9702465766948932
+    },
+    {
+      "source": "cg01",
+      "target": "158714043.10458.10458",
+      "weight": 0.9758791086768174
+    },
+    {
+      "source": "cg01",
+      "target": "156725805.9367.0",
+      "weight": 0.9368719135264204
+    },
+    {
+      "source": "cg01",
+      "target": "240149353.16332.16332",
+      "weight": 0.9744567398304248
+    },
+    {
+      "source": "cg01",
+      "target": "241131342.18768.18523",
+      "weight": 0.9616525123745868
+    },
+    {
+      "source": "cg01",
+      "target": "271340377.69106.69106",
+      "weight": 0.9690913142392819
+    },
+    {
+      "source": "cg01",
+      "target": "271266337.66158.66158",
+      "weight": 0.9662021515560059
+    },
+    {
+      "source": "cg01",
+      "target": "200053269.20798.20798",
+      "weight": 0.9600700429708616
+    },
+    {
+      "source": "cg01",
+      "target": "200248222.21224.21224",
+      "weight": 0.9233172415583423
+    },
+    {
+      "source": "cg01",
+      "target": "193565323.8199.8199",
+      "weight": 0.893094217412172
+    },
+    {
+      "source": "cg01",
+      "target": "193002106.7341.7341",
+      "weight": 0.9768728680053913
+    },
+    {
+      "source": "cg01",
+      "target": "322161962.9817.9817",
+      "weight": 0.983749574824533
+    },
+    {
+      "source": "cg01",
+      "target": "323279527.11312.11312",
+      "weight": 0.9260232709590386
+    },
+    {
+      "source": "cg01",
+      "target": "408375548.1540.1540",
+      "weight": 0.8534901104904706
+    },
+    {
+      "source": "cg01",
+      "target": "623925770.1777.0",
+      "weight": 0.9775607398008574
+    },
+    {
+      "source": "cg01",
+      "target": "387118463.11252.11252",
+      "weight": 0.9840819468974715
+    },
+    {
+      "source": "cg01",
+      "target": "155716783.14696.14696",
+      "weight": 0.979948855906188
+    },
+    {
+      "source": "cg01",
+      "target": "155594817.14064.14064",
+      "weight": 0.9818777748419962
+    },
+    {
+      "source": "cg01",
+      "target": "95273157.1954.1954",
+      "weight": 0.9924529233532426
+    },
+    {
+      "source": "cg01",
+      "target": "83160877.1204.1204",
+      "weight": 0.9758172405492621
+    },
+    {
+      "source": "cg01",
+      "target": "318141830.5953.5953",
+      "weight": 0.9430349258476356
+    },
+    {
+      "source": "cg01",
+      "target": "325209973.9766.9766",
+      "weight": 0.8846137877266456
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "143890867.11926.11926",
+      "weight": 0.9543498404835965
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "127296808.516.516",
+      "weight": 0.7962968661791557
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "144643838.1236.1236",
+      "weight": 0.7715505125182746
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "66813686.23567.23567",
+      "weight": 0.8900215727890487
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "68000691.25417.25417",
+      "weight": 0.9659867585621178
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "95100799.58.76",
+      "weight": 0.9311819013279711
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "14969685.9097.9097",
+      "weight": 0.9243697814687455
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "158714043.10458.10458",
+      "weight": 0.9827027080590508
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "156725805.9367.0",
+      "weight": 0.8735494334363949
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "240149353.16332.16332",
+      "weight": 0.9655035237031164
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "241131342.18768.18523",
+      "weight": 0.9260756512273371
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "271340377.69106.69106",
+      "weight": 0.9356850054650738
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "271266337.66158.66158",
+      "weight": 0.9132625666148821
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "200053269.20798.20798",
+      "weight": 0.9582069446958652
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "200248222.21224.21224",
+      "weight": 0.902157148093427
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "193565323.8199.8199",
+      "weight": 0.8429295401264305
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "193002106.7341.7341",
+      "weight": 0.9423426380917671
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "322161962.9817.9817",
+      "weight": 0.9446557682009493
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "323279527.11312.11312",
+      "weight": 0.885820439627758
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "408375548.1540.1540",
+      "weight": 0.9187054635354918
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "623925770.1777.0",
+      "weight": 0.9732436633945427
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "387118463.11252.11252",
+      "weight": 0.968077485372242
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "155716783.14696.14696",
+      "weight": 0.985292585811315
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "155594817.14064.14064",
+      "weight": 0.9471915361829193
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "95273157.1954.1954",
+      "weight": 0.9682145026953701
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "83160877.1204.1204",
+      "weight": 0.9293240547305289
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "318141830.5953.5953",
+      "weight": 0.9120662200535505
+    },
+    {
+      "source": "146743638.12652.12652",
+      "target": "325209973.9766.9766",
+      "weight": 0.8573372708603376
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "127296808.516.516",
+      "weight": 0.8203684502452095
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "144643838.1236.1236",
+      "weight": 0.8073181300356139
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "66813686.23567.23567",
+      "weight": 0.88363739469099
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "68000691.25417.25417",
+      "weight": 0.9407751721028955
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "95100799.58.76",
+      "weight": 0.9666957029502861
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "14969685.9097.9097",
+      "weight": 0.9753531632651177
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "158714043.10458.10458",
+      "weight": 0.9689099468905247
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "156725805.9367.0",
+      "weight": 0.9407454862520475
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "240149353.16332.16332",
+      "weight": 0.9625266214346634
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "241131342.18768.18523",
+      "weight": 0.9892271663167866
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "271340377.69106.69106",
+      "weight": 0.9812639933754917
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "271266337.66158.66158",
+      "weight": 0.9798399832708838
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "200053269.20798.20798",
+      "weight": 0.9586789101483787
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "200248222.21224.21224",
+      "weight": 0.8925644119318038
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "193565323.8199.8199",
+      "weight": 0.8708254591514569
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "193002106.7341.7341",
+      "weight": 0.9807339273407878
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "322161962.9817.9817",
+      "weight": 0.9813373660030845
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "323279527.11312.11312",
+      "weight": 0.9355723520084758
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "408375548.1540.1540",
+      "weight": 0.7938494419867468
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "623925770.1777.0",
+      "weight": 0.9494399634947344
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "387118463.11252.11252",
+      "weight": 0.9783339617498158
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "155716783.14696.14696",
+      "weight": 0.9614601101444504
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "155594817.14064.14064",
+      "weight": 0.9754554891379944
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "95273157.1954.1954",
+      "weight": 0.9873595185821192
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "83160877.1204.1204",
+      "weight": 0.9786455512200303
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "318141830.5953.5953",
+      "weight": 0.8946720964970558
+    },
+    {
+      "source": "143890867.11926.11926",
+      "target": "325209973.9766.9766",
+      "weight": 0.8516800889708716
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "144643838.1236.1236",
+      "weight": 0.8774742129587809
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "66813686.23567.23567",
+      "weight": 0.9119959441248381
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "68000691.25417.25417",
+      "weight": 0.8498724956536862
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "95100799.58.76",
+      "weight": 0.8359406946060255
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "14969685.9097.9097",
+      "weight": 0.9044693641738211
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "158714043.10458.10458",
+      "weight": 0.7719503868461779
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "156725805.9367.0",
+      "weight": 0.8961850589331295
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "240149353.16332.16332",
+      "weight": 0.8280335281364349
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "241131342.18768.18523",
+      "weight": 0.7840638351314106
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "271340377.69106.69106",
+      "weight": 0.8008778574944215
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "271266337.66158.66158",
+      "weight": 0.8801374844302039
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "200053269.20798.20798",
+      "weight": 0.7708095638882084
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "200248222.21224.21224",
+      "weight": 0.9471230776463252
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "193565323.8199.8199",
+      "weight": 0.9533921751128419
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "193002106.7341.7341",
+      "weight": 0.7939735488337473
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "322161962.9817.9817",
+      "weight": 0.8827356390594749
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "323279527.11312.11312",
+      "weight": 0.9107431401102867
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "623925770.1777.0",
+      "weight": 0.7689464481087923
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "387118463.11252.11252",
+      "weight": 0.8373949971714485
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "155716783.14696.14696",
+      "weight": 0.8329267300725658
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "155594817.14064.14064",
+      "weight": 0.7915198652994557
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "95273157.1954.1954",
+      "weight": 0.8086832261492894
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "83160877.1204.1204",
+      "weight": 0.8299325044775857
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "318141830.5953.5953",
+      "weight": 0.8747363439194441
+    },
+    {
+      "source": "127296808.516.516",
+      "target": "325209973.9766.9766",
+      "weight": 0.9544874685487289
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "66813686.23567.23567",
+      "weight": 0.8762521204625014
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "68000691.25417.25417",
+      "weight": 0.8082701896912158
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "95100799.58.76",
+      "weight": 0.8531866332957562
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "14969685.9097.9097",
+      "weight": 0.8869624591072539
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "158714043.10458.10458",
+      "weight": 0.7628909143983039
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "156725805.9367.0",
+      "weight": 0.852880926086505
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "240149353.16332.16332",
+      "weight": 0.8290218141814083
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "241131342.18768.18523",
+      "weight": 0.819417528922345
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "271340377.69106.69106",
+      "weight": 0.7902429358148573
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "271266337.66158.66158",
+      "weight": 0.8712323687731346
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "200053269.20798.20798",
+      "weight": 0.7833774021138098
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "200248222.21224.21224",
+      "weight": 0.9026515512069747
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "193565323.8199.8199",
+      "weight": 0.869079197341881
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "193002106.7341.7341",
+      "weight": 0.8049661648685883
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "322161962.9817.9817",
+      "weight": 0.8662893535168867
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "323279527.11312.11312",
+      "weight": 0.9169393215422903
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "623925770.1777.0",
+      "weight": 0.7812906846999705
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "387118463.11252.11252",
+      "weight": 0.822844670441407
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "155716783.14696.14696",
+      "weight": 0.7813332807249418
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "155594817.14064.14064",
+      "weight": 0.8233920843834505
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "95273157.1954.1954",
+      "weight": 0.8186385162376605
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "83160877.1204.1204",
+      "weight": 0.8529294460490464
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "318141830.5953.5953",
+      "weight": 0.7809626410977586
+    },
+    {
+      "source": "144643838.1236.1236",
+      "target": "325209973.9766.9766",
+      "weight": 0.8857017575549937
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "68000691.25417.25417",
+      "weight": 0.9159255084518306
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "95100799.58.76",
+      "weight": 0.936684489626631
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "14969685.9097.9097",
+      "weight": 0.937242783121443
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "158714043.10458.10458",
+      "weight": 0.8738856308370948
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "156725805.9367.0",
+      "weight": 0.9297910415898913
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "240149353.16332.16332",
+      "weight": 0.9389811886576
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "241131342.18768.18523",
+      "weight": 0.853180464437646
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "271340377.69106.69106",
+      "weight": 0.9082849895002302
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "271266337.66158.66158",
+      "weight": 0.9089917454501398
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "200053269.20798.20798",
+      "weight": 0.877208445175438
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "200248222.21224.21224",
+      "weight": 0.9424555576915019
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "193565323.8199.8199",
+      "weight": 0.9586077987159818
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "193002106.7341.7341",
+      "weight": 0.8998680817095056
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "322161962.9817.9817",
+      "weight": 0.936371751058843
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "323279527.11312.11312",
+      "weight": 0.8939854239004533
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "408375548.1540.1540",
+      "weight": 0.7777641644374811
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "623925770.1777.0",
+      "weight": 0.9023333752208347
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "387118463.11252.11252",
+      "weight": 0.9319905332821209
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "155716783.14696.14696",
+      "weight": 0.8918195446657136
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "155594817.14064.14064",
+      "weight": 0.9103856208417931
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "95273157.1954.1954",
+      "weight": 0.9125614793442023
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "83160877.1204.1204",
+      "weight": 0.8927888475928888
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "318141830.5953.5953",
+      "weight": 0.9510422193861449
+    },
+    {
+      "source": "66813686.23567.23567",
+      "target": "325209973.9766.9766",
+      "weight": 0.937422768700537
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "95100799.58.76",
+      "weight": 0.9252742493230346
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "14969685.9097.9097",
+      "weight": 0.9290852499426198
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "158714043.10458.10458",
+      "weight": 0.9635411056668871
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "156725805.9367.0",
+      "weight": 0.875920562280633
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "240149353.16332.16332",
+      "weight": 0.9707541519179744
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "241131342.18768.18523",
+      "weight": 0.9172466087925
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "271340377.69106.69106",
+      "weight": 0.9424108117684867
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "271266337.66158.66158",
+      "weight": 0.9161314370831973
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "200053269.20798.20798",
+      "weight": 0.9617501884395059
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "200248222.21224.21224",
+      "weight": 0.9283873848885628
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "193565323.8199.8199",
+      "weight": 0.8859259928825121
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "193002106.7341.7341",
+      "weight": 0.9478533106055484
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "322161962.9817.9817",
+      "weight": 0.946745900377234
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "323279527.11312.11312",
+      "weight": 0.9142571679781911
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "408375548.1540.1540",
+      "weight": 0.8912318970359477
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "623925770.1777.0",
+      "weight": 0.9650428339237956
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "387118463.11252.11252",
+      "weight": 0.9457341749705608
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "408841323.14594.14594",
+      "weight": 0.7123956116565482
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "155716783.14696.14696",
+      "weight": 0.9618134356958656
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "155594817.14064.14064",
+      "weight": 0.932614723619244
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "95273157.1954.1954",
+      "weight": 0.9498796021603856
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "83160877.1204.1204",
+      "weight": 0.9304656518007333
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "318141830.5953.5953",
+      "weight": 0.9286901184730818
+    },
+    {
+      "source": "68000691.25417.25417",
+      "target": "325209973.9766.9766",
+      "weight": 0.8849586232720654
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "14969685.9097.9097",
+      "weight": 0.9762200972428047
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "158714043.10458.10458",
+      "weight": 0.939291116567211
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "156725805.9367.0",
+      "weight": 0.9492902462596858
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "240149353.16332.16332",
+      "weight": 0.9606550448338959
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "241131342.18768.18523",
+      "weight": 0.9585549647604799
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "271340377.69106.69106",
+      "weight": 0.97227918024773
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "271266337.66158.66158",
+      "weight": 0.9668741567102231
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "200053269.20798.20798",
+      "weight": 0.9304935973292849
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "200248222.21224.21224",
+      "weight": 0.920715319093173
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "193565323.8199.8199",
+      "weight": 0.9007597389440392
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "193002106.7341.7341",
+      "weight": 0.9682484793858376
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "322161962.9817.9817",
+      "weight": 0.98215985205565
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "323279527.11312.11312",
+      "weight": 0.933508799578367
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "408375548.1540.1540",
+      "weight": 0.7813016003823744
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "623925770.1777.0",
+      "weight": 0.9525914284104702
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "387118463.11252.11252",
+      "weight": 0.9721284643530401
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "155716783.14696.14696",
+      "weight": 0.9389533444268849
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "155594817.14064.14064",
+      "weight": 0.9859736102890332
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "95273157.1954.1954",
+      "weight": 0.9815979289620085
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "83160877.1204.1204",
+      "weight": 0.9684114187293714
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "318141830.5953.5953",
+      "weight": 0.9314835665649848
+    },
+    {
+      "source": "95100799.58.76",
+      "target": "325209973.9766.9766",
+      "weight": 0.8821764372215513
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "158714043.10458.10458",
+      "weight": 0.9245006009842645
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "156725805.9367.0",
+      "weight": 0.9800514159004464
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "240149353.16332.16332",
+      "weight": 0.9494263109607516
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "241131342.18768.18523",
+      "weight": 0.9639010601304672
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "271340377.69106.69106",
+      "weight": 0.9598987017177196
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "271266337.66158.66158",
+      "weight": 0.9924712008530527
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "200053269.20798.20798",
+      "weight": 0.9191386911523907
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "200248222.21224.21224",
+      "weight": 0.945438207090197
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "193565323.8199.8199",
+      "weight": 0.9392827619346006
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "193002106.7341.7341",
+      "weight": 0.9555032296450712
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "322161962.9817.9817",
+      "weight": 0.9893394365779178
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "323279527.11312.11312",
+      "weight": 0.9696969696969695
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "408375548.1540.1540",
+      "weight": 0.7380024796924975
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "623925770.1777.0",
+      "weight": 0.9207222563422035
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "387118463.11252.11252",
+      "weight": 0.971838553467264
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "155716783.14696.14696",
+      "weight": 0.9373412243768345
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "155594817.14064.14064",
+      "weight": 0.9610475600344989
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "95273157.1954.1954",
+      "weight": 0.970340170545697
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "83160877.1204.1204",
+      "weight": 0.9704514807178879
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "318141830.5953.5953",
+      "weight": 0.9200693942291411
+    },
+    {
+      "source": "14969685.9097.9097",
+      "target": "325209973.9766.9766",
+      "weight": 0.9254445896781053
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "156725805.9367.0",
+      "weight": 0.8614677362262988
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "240149353.16332.16332",
+      "weight": 0.9737878737586121
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "241131342.18768.18523",
+      "weight": 0.9470739952835644
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "271340377.69106.69106",
+      "weight": 0.956847375878929
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "271266337.66158.66158",
+      "weight": 0.9217869628227886
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "200053269.20798.20798",
+      "weight": 0.9798047681789457
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "200248222.21224.21224",
+      "weight": 0.8871385934708775
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "193565323.8199.8199",
+      "weight": 0.8268106308031118
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "193002106.7341.7341",
+      "weight": 0.9650244130138863
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "322161962.9817.9817",
+      "weight": 0.950471233790006
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "323279527.11312.11312",
+      "weight": 0.8882038106453902
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "408375548.1540.1540",
+      "weight": 0.911322376865767
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "623925770.1777.0",
+      "weight": 0.97741049661368
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "387118463.11252.11252",
+      "weight": 0.9626628903611919
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "155716783.14696.14696",
+      "weight": 0.9779489663530304
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "155594817.14064.14064",
+      "weight": 0.9598305254708172
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "95273157.1954.1954",
+      "weight": 0.9773337667185826
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "83160877.1204.1204",
+      "weight": 0.9450259579073519
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "318141830.5953.5953",
+      "weight": 0.8978524373582399
+    },
+    {
+      "source": "158714043.10458.10458",
+      "target": "325209973.9766.9766",
+      "weight": 0.8219834110932527
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "240149353.16332.16332",
+      "weight": 0.9033040366299935
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "241131342.18768.18523",
+      "weight": 0.9206832558799241
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "271340377.69106.69106",
+      "weight": 0.9336713972229618
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "271266337.66158.66158",
+      "weight": 0.9704305964630716
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "200053269.20798.20798",
+      "weight": 0.8555594555505666
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "200248222.21224.21224",
+      "weight": 0.9040452140719412
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "193565323.8199.8199",
+      "weight": 0.9444122057737365
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "193002106.7341.7341",
+      "weight": 0.9200478093490422
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "322161962.9817.9817",
+      "weight": 0.963530463662765
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "323279527.11312.11312",
+      "weight": 0.922982855689829
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "623925770.1777.0",
+      "weight": 0.8723996108900327
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "387118463.11252.11252",
+      "weight": 0.9435964876740491
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "155716783.14696.14696",
+      "weight": 0.8859259928825122
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "155594817.14064.14064",
+      "weight": 0.930539824996419
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "95273157.1954.1954",
+      "weight": 0.9329240301225804
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "83160877.1204.1204",
+      "weight": 0.9365554163357102
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "318141830.5953.5953",
+      "weight": 0.9166759734469102
+    },
+    {
+      "source": "156725805.9367.0",
+      "target": "325209973.9766.9766",
+      "weight": 0.9203946563315626
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "241131342.18768.18523",
+      "weight": 0.9494714650752419
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "271340377.69106.69106",
+      "weight": 0.972146782296382
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "271266337.66158.66158",
+      "weight": 0.9405810608020304
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "200053269.20798.20798",
+      "weight": 0.980331852873915
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "200248222.21224.21224",
+      "weight": 0.9139546212205337
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "193565323.8199.8199",
+      "weight": 0.8873565094161137
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "193002106.7341.7341",
+      "weight": 0.9797641043104103
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "322161962.9817.9817",
+      "weight": 0.9656145024598615
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "323279527.11312.11312",
+      "weight": 0.9174987005036643
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "408375548.1540.1540",
+      "weight": 0.8709363832835518
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "623925770.1777.0",
+      "weight": 0.9808777763417885
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "387118463.11252.11252",
+      "weight": 0.977525459213985
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "408841323.14594.14594",
+      "weight": 0.7245235560022184
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "155716783.14696.14696",
+      "weight": 0.9620989012118433
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "155594817.14064.14064",
+      "weight": 0.9698608966169904
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "95273157.1954.1954",
+      "weight": 0.9797210405957196
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "83160877.1204.1204",
+      "weight": 0.9587383949249845
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "318141830.5953.5953",
+      "weight": 0.9221406985010865
+    },
+    {
+      "source": "240149353.16332.16332",
+      "target": "325209973.9766.9766",
+      "weight": 0.8579389397554938
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "271340377.69106.69106",
+      "weight": 0.9721111047611791
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "271266337.66158.66158",
+      "weight": 0.9732146440939722
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "200053269.20798.20798",
+      "weight": 0.9522353368533101
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "200248222.21224.21224",
+      "weight": 0.8686721947157133
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "193565323.8199.8199",
+      "weight": 0.84
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "193002106.7341.7341",
+      "weight": 0.9757499229248816
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "322161962.9817.9817",
+      "weight": 0.9639234078252341
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "323279527.11312.11312",
+      "weight": 0.9437014308415509
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "408375548.1540.1540",
+      "weight": 0.7505553499465135
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "623925770.1777.0",
+      "weight": 0.9330562359225403
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "387118463.11252.11252",
+      "weight": 0.9613011087827167
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "155716783.14696.14696",
+      "weight": 0.9333809511662429
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "155594817.14064.14064",
+      "weight": 0.9666536640307181
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "95273157.1954.1954",
+      "weight": 0.9757070356460913
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "83160877.1204.1204",
+      "weight": 0.9761124408518423
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "318141830.5953.5953",
+      "weight": 0.8471737420873577
+    },
+    {
+      "source": "241131342.18768.18523",
+      "target": "325209973.9766.9766",
+      "weight": 0.8144876336899787
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "271266337.66158.66158",
+      "weight": 0.9565073889006834
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "200053269.20798.20798",
+      "weight": 0.9629111081495539
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "200248222.21224.21224",
+      "weight": 0.8778099496988391
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "193565323.8199.8199",
+      "weight": 0.8795290947839238
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "193002106.7341.7341",
+      "weight": 0.9905360646879091
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "322161962.9817.9817",
+      "weight": 0.9717113083687458
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "323279527.11312.11312",
+      "weight": 0.9116846116771035
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "408375548.1540.1540",
+      "weight": 0.8017837257372731
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "623925770.1777.0",
+      "weight": 0.9589293271902023
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "387118463.11252.11252",
+      "weight": 0.9673824874398685
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "155716783.14696.14696",
+      "weight": 0.9383369280147673
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "155594817.14064.14064",
+      "weight": 0.9788487096482736
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "95273157.1954.1954",
+      "weight": 0.9793990112035409
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "83160877.1204.1204",
+      "weight": 0.9659160602417065
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "318141830.5953.5953",
+      "weight": 0.9150522248280039
+    },
+    {
+      "source": "271340377.69106.69106",
+      "target": "325209973.9766.9766",
+      "weight": 0.8371220789367868
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "200053269.20798.20798",
+      "weight": 0.9204113665067992
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "200248222.21224.21224",
+      "weight": 0.9227186072769457
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "193565323.8199.8199",
+      "weight": 0.91596672385315
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "193002106.7341.7341",
+      "weight": 0.960087799044545
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "322161962.9817.9817",
+      "weight": 0.9869058964700085
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "323279527.11312.11312",
+      "weight": 0.9645214230512513
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "408375548.1540.1540",
+      "weight": 0.7126859528591709
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "623925770.1777.0",
+      "weight": 0.9155880083047313
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "387118463.11252.11252",
+      "weight": 0.9613594775369941
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "155716783.14696.14696",
+      "weight": 0.9259889809791817
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "155594817.14064.14064",
+      "weight": 0.9624372188533511
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "95273157.1954.1954",
+      "weight": 0.9690488986166836
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "83160877.1204.1204",
+      "weight": 0.9813237262805515
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "318141830.5953.5953",
+      "weight": 0.8995036816865631
+    },
+    {
+      "source": "271266337.66158.66158",
+      "target": "325209973.9766.9766",
+      "weight": 0.8941395763115986
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "200248222.21224.21224",
+      "weight": 0.8772860508125501
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "193565323.8199.8199",
+      "weight": 0.8320502943378437
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "193002106.7341.7341",
+      "weight": 0.9732980536070414
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "322161962.9817.9817",
+      "weight": 0.9408282029641399
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "323279527.11312.11312",
+      "weight": 0.8990051769652431
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "408375548.1540.1540",
+      "weight": 0.8807048459279793
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "623925770.1777.0",
+      "weight": 0.9752651901622403
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "387118463.11252.11252",
+      "weight": 0.9522034172737558
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "408841323.14594.14594",
+      "weight": 0.7359800721939873
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "155716783.14696.14696",
+      "weight": 0.9544318576724957
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "155594817.14064.14064",
+      "weight": 0.9520649451698792
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "95273157.1954.1954",
+      "weight": 0.9656591353709723
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "83160877.1204.1204",
+      "weight": 0.9465561970863408
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "318141830.5953.5953",
+      "weight": 0.8771978898157421
+    },
+    {
+      "source": "200053269.20798.20798",
+      "target": "325209973.9766.9766",
+      "weight": 0.8096002823192745
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "193565323.8199.8199",
+      "weight": 0.9426352257875222
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "193002106.7341.7341",
+      "weight": 0.880903357622541
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "322161962.9817.9817",
+      "weight": 0.9442358671945105
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "323279527.11312.11312",
+      "weight": 0.9588486781127529
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "408375548.1540.1540",
+      "weight": 0.7904519368610403
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "623925770.1777.0",
+      "weight": 0.8925056061016473
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "387118463.11252.11252",
+      "weight": 0.9062596454887298
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "408841323.14594.14594",
+      "weight": 0.703485801848676
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "155716783.14696.14696",
+      "weight": 0.9124639123180783
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "155594817.14064.14064",
+      "weight": 0.8945722583773609
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "95273157.1954.1954",
+      "weight": 0.9072097650534936
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "83160877.1204.1204",
+      "weight": 0.9049574296352636
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "318141830.5953.5953",
+      "weight": 0.9312273863775675
+    },
+    {
+      "source": "200248222.21224.21224",
+      "target": "325209973.9766.9766",
+      "weight": 0.9559301508664987
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "193002106.7341.7341",
+      "weight": 0.8730394047222625
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "322161962.9817.9817",
+      "weight": 0.9269786082221763
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "323279527.11312.11312",
+      "weight": 0.910877033247062
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "623925770.1777.0",
+      "weight": 0.8494989610638051
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "387118463.11252.11252",
+      "weight": 0.895622151039798
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "155716783.14696.14696",
+      "weight": 0.8579562278396778
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "155594817.14064.14064",
+      "weight": 0.8732837078459328
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "95273157.1954.1954",
+      "weight": 0.8812175121940485
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "83160877.1204.1204",
+      "weight": 0.8876964588906248
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "318141830.5953.5953",
+      "weight": 0.9318911162960934
+    },
+    {
+      "source": "193565323.8199.8199",
+      "target": "325209973.9766.9766",
+      "weight": 0.9682720120789957
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "322161962.9817.9817",
+      "weight": 0.9745272837949626
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "323279527.11312.11312",
+      "weight": 0.9166023347994702
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "408375548.1540.1540",
+      "weight": 0.8153742483272113
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "623925770.1777.0",
+      "weight": 0.9744385406635296
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "387118463.11252.11252",
+      "weight": 0.9658930600939416
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "155716783.14696.14696",
+      "weight": 0.9441549509633319
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "155594817.14064.14064",
+      "weight": 0.9872137660303814
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "95273157.1954.1954",
+      "weight": 0.9863302721496477
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "83160877.1204.1204",
+      "weight": 0.9853157687223639
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "318141830.5953.5953",
+      "weight": 0.9136433676031671
+    },
+    {
+      "source": "193002106.7341.7341",
+      "target": "325209973.9766.9766",
+      "weight": 0.8299831054276423
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "323279527.11312.11312",
+      "weight": 0.954993998085338
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "408375548.1540.1540",
+      "weight": 0.7853351316702526
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "623925770.1777.0",
+      "weight": 0.952411749342746
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "387118463.11252.11252",
+      "weight": 0.9716010570493301
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "155716783.14696.14696",
+      "weight": 0.9499606665054621
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "155594817.14064.14064",
+      "weight": 0.9822871794132967
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "95273157.1954.1954",
+      "weight": 0.9831082064519553
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "83160877.1204.1204",
+      "weight": 0.9852984199644046
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "318141830.5953.5953",
+      "weight": 0.9432279235658428
+    },
+    {
+      "source": "322161962.9817.9817",
+      "target": "325209973.9766.9766",
+      "weight": 0.9081844483264399
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "408375548.1540.1540",
+      "weight": 0.7106690545187013
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "623925770.1777.0",
+      "weight": 0.8828121025722955
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "387118463.11252.11252",
+      "weight": 0.9186955493800489
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "408841323.14594.14594",
+      "weight": 0.7035264706814484
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "155716783.14696.14696",
+      "weight": 0.9052038109696288
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "155594817.14064.14064",
+      "weight": 0.9126831536041912
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "95273157.1954.1954",
+      "weight": 0.9254116118373272
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "83160877.1204.1204",
+      "weight": 0.9446665379934996
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "318141830.5953.5953",
+      "weight": 0.8655229959662103
+    },
+    {
+      "source": "323279527.11312.11312",
+      "target": "325209973.9766.9766",
+      "weight": 0.9044117580945119
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "623925770.1777.0",
+      "weight": 0.9045340337332906
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "387118463.11252.11252",
+      "weight": 0.8273403039920305
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "408841323.14594.14594",
+      "weight": 0.7071067811865475
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "155716783.14696.14696",
+      "weight": 0.8981462390204987
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "155594817.14064.14064",
+      "weight": 0.8086075400626398
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "95273157.1954.1954",
+      "weight": 0.8360924786836634
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "83160877.1204.1204",
+      "weight": 0.765704864789611
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "318141830.5953.5953",
+      "weight": 0.8314971796756814
+    },
+    {
+      "source": "408375548.1540.1540",
+      "target": "325209973.9766.9766",
+      "weight": 0.7152322543171354
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "387118463.11252.11252",
+      "weight": 0.957273920704549
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "408841323.14594.14594",
+      "weight": 0.7248824356090753
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "155716783.14696.14696",
+      "weight": 0.9601136296387951
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "155594817.14064.14064",
+      "weight": 0.9752173865600174
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "95273157.1954.1954",
+      "weight": 0.9772563222858374
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "83160877.1204.1204",
+      "weight": 0.9548729569830144
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "318141830.5953.5953",
+      "weight": 0.9320358014058355
+    },
+    {
+      "source": "623925770.1777.0",
+      "target": "325209973.9766.9766",
+      "weight": 0.8358321306256139
+    },
+    {
+      "source": "387118463.11252.11252",
+      "target": "155716783.14696.14696",
+      "weight": 0.9710607611177228
+    },
+    {
+      "source": "387118463.11252.11252",
+      "target": "155594817.14064.14064",
+      "weight": 0.969056917478805
+    },
+    {
+      "source": "387118463.11252.11252",
+      "target": "95273157.1954.1954",
+      "weight": 0.9860874758964405
+    },
+    {
+      "source": "387118463.11252.11252",
+      "target": "83160877.1204.1204",
+      "weight": 0.9565827283608523
+    },
+    {
+      "source": "387118463.11252.11252",
+      "target": "318141830.5953.5953",
+      "weight": 0.9130262415952332
+    },
+    {
+      "source": "387118463.11252.11252",
+      "target": "325209973.9766.9766",
+      "weight": 0.885060100590261
+    },
+    {
+      "source": "155716783.14696.14696",
+      "target": "155594817.14064.14064",
+      "weight": 0.9398501212305471
+    },
+    {
+      "source": "155716783.14696.14696",
+      "target": "95273157.1954.1954",
+      "weight": 0.9644482036650505
+    },
+    {
+      "source": "155716783.14696.14696",
+      "target": "83160877.1204.1204",
+      "weight": 0.9352923245342646
+    },
+    {
+      "source": "155716783.14696.14696",
+      "target": "318141830.5953.5953",
+      "weight": 0.9145379080863484
+    },
+    {
+      "source": "155716783.14696.14696",
+      "target": "325209973.9766.9766",
+      "weight": 0.8699358143954548
+    },
+    {
+      "source": "155594817.14064.14064",
+      "target": "95273157.1954.1954",
+      "weight": 0.9916831537362145
+    },
+    {
+      "source": "155594817.14064.14064",
+      "target": "83160877.1204.1204",
+      "weight": 0.9848202248021415
+    },
+    {
+      "source": "155594817.14064.14064",
+      "target": "318141830.5953.5953",
+      "weight": 0.9259420271023432
+    },
+    {
+      "source": "155594817.14064.14064",
+      "target": "325209973.9766.9766",
+      "weight": 0.8469839023894424
+    },
+    {
+      "source": "95273157.1954.1954",
+      "target": "83160877.1204.1204",
+      "weight": 0.9807320349070243
+    },
+    {
+      "source": "95273157.1954.1954",
+      "target": "318141830.5953.5953",
+      "weight": 0.9223041930562291
+    },
+    {
+      "source": "95273157.1954.1954",
+      "target": "325209973.9766.9766",
+      "weight": 0.8608045524401091
+    },
+    {
+      "source": "83160877.1204.1204",
+      "target": "318141830.5953.5953",
+      "weight": 0.907832823376766
+    },
+    {
+      "source": "83160877.1204.1204",
+      "target": "325209973.9766.9766",
+      "weight": 0.8581215774353664
+    },
+    {
+      "source": "318141830.5953.5953",
+      "target": "325209973.9766.9766",
+      "weight": 0.9155935580706563
+    }
+  ],
+  "similarity_threshold": 0.7,
+  "pca_variance_explained": [
+    0.13191024607318544,
+    0.08558857598509843,
+    0.06440141353447512
+  ]
+}

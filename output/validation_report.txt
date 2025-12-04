@@ -1,0 +1,72 @@
+======================================================================
+TAMV EXTRACTION VALIDATION REPORT
+======================================================================
+
+OVERALL RESULTS
+----------------------------------------
+Total test cases:     42
+Passed:               38
+Failed:               4
+Overall accuracy:     90.5%
+
+Verb detection rate:  100.0%
+
+PER-DIMENSION ACCURACY (where verb was found)
+----------------------------------------
+Tense:   100.0%
+Aspect:  100.0%
+Mood:    90.5%
+Voice:   100.0%
+
+ACCURACY BY CATEGORY
+----------------------------------------
+  aspect_perfect                       3/ 3 (100%)
+  aspect_perfect_progressive           2/ 2 (100%)
+  aspect_progressive                   3/ 3 (100%)
+  complex                              3/ 3 (100%)
+  edge_cases                           3/ 3 (100%)
+  mood_conditional                     2/ 2 (100%)
+  mood_imperative                      2/ 3 (67%)
+  mood_modal                           5/ 5 (100%)
+  mood_subjunctive                     0/ 3 (0%)
+  tense_future                         2/ 2 (100%)
+  tense_past                           3/ 3 (100%)
+  tense_present                        3/ 3 (100%)
+  voice_passive                        7/ 7 (100%)
+
+FAILED TEST CASES
+----------------------------------------
+
+  Sentence: "Don't forget the meeting."
+  Verb: forget
+  Category: mood_imperative
+  Expected: present-simple-imperative-active
+  Got:      present-simple-indicative-active
+    - Mood: expected imperative, got indicative
+  Notes: Negative imperative
+
+  Sentence: "I suggest that he leave immediately."
+  Verb: leave
+  Category: mood_subjunctive
+  Expected: present-simple-subjunctive-active
+  Got:      present-simple-indicative-active
+    - Mood: expected subjunctive, got indicative
+  Notes: Mandative subjunctive
+
+  Sentence: "The committee recommends that she be appointed."
+  Verb: appointed
+  Category: mood_subjunctive
+  Expected: present-simple-subjunctive-passive
+  Got:      present-simple-indicative-passive
+    - Mood: expected subjunctive, got indicative
+  Notes: Mandative subjunctive, passive
+
+  Sentence: "It is essential that he attend the meeting."
+  Verb: attend
+  Category: mood_subjunctive
+  Expected: present-simple-subjunctive-active
+  Got:      present-simple-indicative-active
+    - Mood: expected subjunctive, got indicative
+  Notes: Subjunctive after adjective
+
+======================================================================
