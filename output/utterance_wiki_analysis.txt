@@ -1,0 +1,47 @@
+======================================================================
+UTTERANCE-LEVEL TAMV-TOXICITY ANALYSIS (WIKI)
+======================================================================
+
+DATASET SUMMARY
+----------------------------------------
+Dataset:              wiki
+Sample rate:          1/10
+Total utterances:     2622
+Mean toxicity:        0.0158
+Median toxicity:      0.0000
+
+TAMV-TOXICITY CORRELATIONS
+----------------------------------------------------------------------
+Feature         Value                       r          p    HighTox     LowTox
+----------------------------------------------------------------------
+tense           future                 +0.071    0.0003*      0.453      0.243
+tense           present                +0.020    0.3015     11.072     11.226
+tense           past                   +0.017    0.3800      3.152      2.577
+tense           none                   +0.015    0.4410      1.784      1.764
+
+aspect          simple                 +0.035    0.0738     14.782     14.501
+aspect          perfect-progressive    +0.025    0.1947      0.035      0.023
+aspect          progressive            +0.024    0.2163      0.773      0.683
+aspect          perfect                +0.016    0.4133      0.870      0.602
+
+mood            indicative             +0.028    0.1491     11.121     10.641
+mood            conditional            +0.025    0.2034      1.306      1.260
+mood            infinitival            +0.021    0.2914      1.544      1.489
+mood            modal                  -0.014    0.4877      0.688      0.772
+mood            subjunctive            +0.012    0.5398      0.460      0.372
+mood            participle             -0.010    0.6028      0.239      0.274
+mood            imperative             +0.005    0.7920      1.101      1.002
+
+voice           active                 +0.054    0.0056*     15.221     14.602
+voice           passive                -0.019    0.3278      1.239      1.208
+
+SIGNIFICANT CORRELATIONS SUMMARY
+----------------------------------------
+
+Positive (higher rate = higher toxicity): 2
+  tense:future: r = +0.071
+  voice:active: r = +0.054
+
+Negative (higher rate = lower toxicity): 0
+
+======================================================================

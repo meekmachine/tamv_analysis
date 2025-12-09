@@ -1,0 +1,88 @@
+======================================================================
+CGA TAMV ANALYSIS REPORT (WIKI)
+======================================================================
+
+DATASET SUMMARY
+----------------------------------------
+Dataset:              wiki
+Sample rate:          1/50
+Speaker profiles:     236
+TAMV combinations:    41
+
+DERAILMENT SUMMARY
+----------------------------------------
+Derailed speakers:    181
+Civil speakers:       55
+
+OVERALL TAMV DEVIATION BY DERAILMENT STATUS
+----------------------------------------
+Derailed mean |z|:    0.837
+Civil mean |z|:       1.288
+Difference:           -0.451
+
+TOP 15 TAMV COMBINATIONS (by frequency)
+----------------------------------------
+Label                                             Mean       SD    Count
+----------------------------------------------------------------------
+present-simple-indicative-active                 6.371    3.234      220
+past-simple-indicative-active                    2.642    2.143      180
+none-simple-infinitival-active                   1.993    1.178      167
+present-simple-imperative-active                 1.630    1.774      129
+present-simple-conditional-active                1.977    1.331      105
+present-simple-modal-active                      1.075    1.006       96
+present-perfect-indicative-active                1.202    1.205       87
+present-simple-subjunctive-active                1.025    0.873       82
+none-simple-participle-active                    0.796    0.535       74
+present-simple-indicative-passive                0.945    0.869       72
+present-progressive-indicative-active            1.035    1.010       71
+past-simple-indicative-passive                   0.931    0.758       52
+future-simple-indicative-active                  0.892    0.912       51
+present-simple-modal-passive                     0.825    0.814       50
+past-simple-conditional-active                   0.966    0.893       40
+
+TAMV LABELS WITH LARGEST DERAILMENT DIFFERENCE
+----------------------------------------
+(Positive = higher z-score in derailed conversations)
+
+Label                                           Derailed z      Civil z     Diff
+--------------------------------------------------------------------------------
+future-simple-indicative-active                     -0.219        0.900   -1.119
+present-simple-imperative-active                    -0.221        0.836   -1.058
+none-simple-infinitival-passive                     -0.246        0.781   -1.027
+present-progressive-indicative-active               -0.161        0.720   -0.881
+present-perfect-indicative-active                   -0.118        0.735   -0.852
+present-simple-conditional-active                   -0.125        0.606   -0.731
+none-simple-participle-active                       -0.106        0.608   -0.714
+
+SPEAKERS WITH HIGHEST TAMV DEVIATIONS
+----------------------------------------
+  [CIVIL   ] Speaker 216.21.150.44        mean|z|=7.31
+             present-simple-indicative-active: z=7.31
+  [CIVIL   ] Speaker Guildenrich          mean|z|=5.12
+             future-simple-indicative-active: z=5.12
+  [CIVIL   ] Speaker ChildofMidnight      mean|z|=4.04
+             present-simple-imperative-active: z=4.72
+             none-simple-infinitival-passive: z=4.24
+             present-perfect-indicative-active: z=3.15
+  [CIVIL   ] Speaker Vanished user 342562 mean|z|=3.78
+             present-simple-imperative-active: z=3.78
+  [DERAILED] Speaker StevenBKrivit        mean|z|=3.59
+             past-simple-indicative-active: z=3.59
+  [DERAILED] Speaker Charles              mean|z|=3.53
+             present-simple-indicative-active: z=4.21
+             present-simple-imperative-active: z=2.84
+  [DERAILED] Speaker Falphin              mean|z|=3.36
+             past-simple-indicative-active: z=5.84
+             none-simple-infinitival-active: z=0.88
+  [CIVIL   ] Speaker HuskyHuskie          mean|z|=3.30
+             present-simple-conditional-active: z=4.77
+             past-simple-conditional-passive: z=1.83
+  [DERAILED] Speaker Jcp20                mean|z|=3.24
+             present-simple-indicative-passive: z=5.68
+             past-progressive-indicative-active: z=3.81
+             none-simple-infinitival-active: z=3.30
+  [DERAILED] Speaker 86.129.102.190       mean|z|=3.14
+             present-simple-modal-active: z=6.03
+             present-simple-indicative-active: z=0.24
+
+======================================================================

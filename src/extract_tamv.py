@@ -27,11 +27,9 @@ from datetime import datetime
 
 import pandas as pd
 
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-
-from src.tamv_extractor import TAMVExtractor, get_all_tamv_labels
-from src.corpus_loaders import BrownCorpusLoader, CGALoader, Document
-from src.tamv_aggregator import TAMVAggregator
+from .tamv_extractor import TAMVExtractor, get_all_tamv_labels
+from .corpus_loaders import BrownCorpusLoader, CGALoader, Document
+from .tamv_aggregator import TAMVAggregator
 
 
 def extract_brown(max_docs: int = None, genres: list = None, verbose: bool = True):

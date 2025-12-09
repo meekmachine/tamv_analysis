@@ -32,6 +32,8 @@ class Mood(Enum):
     IMPERATIVE = "imperative"
     CONDITIONAL = "conditional"
     MODAL = "modal"
+    INFINITIVAL = "infinitival"    # Non-finite: "to have been told"
+    PARTICIPLE = "participle"       # Non-finite: "Having been warned"
 
 
 class Voice(Enum):
@@ -153,10 +155,22 @@ class TAMVExtractor:
         for aux in aux_chain:
             processed_verbs.add(aux.i)
 
+        # Check if this is a non-finite verb phrase
+        is_infinitive = self._is_infinitive(main_verb, aux_chain)
+        is_participle = self._is_participle(main_verb, aux_chain)
+
         # Determine TAMV features
-        tense = self._determine_tense(main_verb, aux_chain)
+        if is_infinitive:
+            tense = Tense.NONE
+            mood = Mood.INFINITIVAL
+        elif is_participle:
+            tense = Tense.NONE
+            mood = Mood.PARTICIPLE
+        else:
+            tense = self._determine_tense(main_verb, aux_chain)
+            mood = self._determine_mood(main_verb, aux_chain, doc)
+
         aspect = self._determine_aspect(main_verb, aux_chain)
-        mood = self._determine_mood(main_verb, aux_chain, doc)
         voice = self._determine_voice(main_verb, aux_chain)
 
         # Build auxiliary text chain
@@ -187,6 +201,64 @@ class TAMVExtractor:
         # Sort by position
         auxiliaries.sort(key=lambda x: x.i)
         return auxiliaries
+
+    def _is_infinitive(self, main_verb, aux_chain: List) -> bool:
+        """Check if the verbal complex is an infinitive (non-finite with 'to').
+
+        Examples:
+        - "to have been promoted" (xcomp with 'to' aux)
+        - "to be told"
+        """
+        # Check if verb has 'to' as auxiliary
+        for aux in aux_chain:
+            if aux.pos_ == "PART" and aux.text.lower() == "to":
+                return True
+
+        # Also check dep relation - xcomp often indicates infinitive
+        if main_verb.dep_ == "xcomp":
+            # Verify it's actually an infinitive by checking for 'to' or base form
+            for aux in aux_chain:
+                if aux.text.lower() == "to":
+                    return True
+            # Check if main verb is base form without finite aux
+            if main_verb.tag_ in {"VB", "VBN"} and not self._has_finite_auxiliary(aux_chain):
+                # Look for 'to' before this verb in the sentence
+                for tok in main_verb.doc[max(0, main_verb.i - 5):main_verb.i]:
+                    if tok.text.lower() == "to" and tok.head == main_verb:
+                        return True
+
+        return False
+
+    def _is_participle(self, main_verb, aux_chain: List) -> bool:
+        """Check if the verbal complex is a participle phrase (non-finite).
+
+        Examples:
+        - "Having been warned" (advcl with VBG start)
+        - "Written by hand" (reduced relative)
+        """
+        # Participle clauses typically have dep = advcl and no finite auxiliary
+        if main_verb.dep_ in {"advcl", "ccomp"} and not self._has_finite_auxiliary(aux_chain):
+            # Check if it starts with a participle form (VBG or VBN)
+            if aux_chain:
+                first_aux = aux_chain[0]
+                if first_aux.tag_ == "VBG":  # "Having been warned"
+                    return True
+            # Or main verb itself is participle without finite aux
+            if main_verb.tag_ in {"VBG", "VBN"}:
+                return True
+
+        return False
+
+    def _has_finite_auxiliary(self, aux_chain: List) -> bool:
+        """Check if the auxiliary chain contains a finite verb."""
+        finite_tags = {"VBZ", "VBP", "VBD", "MD"}  # Present, past, modal
+        for aux in aux_chain:
+            if aux.tag_ in finite_tags:
+                return True
+            # Also check if it's a modal
+            if aux.lemma_.lower() in self.MODAL_VERBS:
+                return True
+        return False
 
     def _determine_tense(self, main_verb, aux_chain: List) -> Tense:
         """Determine the tense of the verbal complex."""
@@ -265,18 +337,30 @@ class TAMVExtractor:
     def _determine_mood(self, main_verb, aux_chain: List, doc) -> Mood:
         """Determine the mood of the verbal complex.
 
-        Follows TMV-annotator (Ramm et al. 2017) terminology:
-        - would/could/should/might → subjunctive
-        - will/shall/can/may/must → indicative (no mood change)
+        Extended beyond TMV-annotator (Ramm et al. 2017):
+        - would/might in conditional context → CONDITIONAL
+        - would/could/might outside conditional → SUBJUNCTIVE (epistemic possibility)
+        - can/may/must/should → MODAL (deontic/dynamic modality)
+        - will/shall → indicative (future tense marker, not mood)
         """
         # Check for modal auxiliaries
         for aux in aux_chain:
             if aux.lemma_.lower() in self.MODAL_VERBS:
-                # TMV-annotator treats would/could/should/might as subjunctive
-                if aux.lemma_.lower() in {'would', 'could', 'might', 'should'}:
+                modal = aux.lemma_.lower()
+
+                # Check if in conditional context first
+                if modal in {'would', 'might'} and self._in_conditional_context(main_verb, doc):
+                    return Mood.CONDITIONAL
+
+                # would/could/might express epistemic possibility → SUBJUNCTIVE
+                if modal in {'would', 'could', 'might'}:
                     return Mood.SUBJUNCTIVE
-                # will/shall/can/may/must don't change mood in TMV-annotator
-                # Continue to check other conditions, default to indicative
+
+                # can/may/must/should express deontic/dynamic modality → MODAL
+                if modal in {'can', 'may', 'must', 'should'}:
+                    return Mood.MODAL
+
+                # will/shall are future tense markers, not mood changers
                 break
 
         # Check for imperative (base form with no subject)

@@ -1,0 +1,22 @@
+TMV ALIGNMENT REPORT
+======================================================================
+
+Total TMV-annotator verbs: 35
+Matched verbs: 27
+Detection rate: 77.1%
+
+Alignment by dimension:
+  Tense:  100.0%
+  Aspect: 100.0%
+  Mood:   100.0%
+  Voice:  96.3%
+  Full:   96.3%
+
+ALL MISMATCHES:
+----------------------------------------------------------------------
+
+Sentence 2: SAN FRANCISCO - It has never been easy to have a rational co...
+  Verb: been
+  TMV-annotator: presPerf/indicative/passive/prog=no
+  TMV (mapped):  present-perfect-indicative-passive
+  Our extractor: present-perfect-indicative-active

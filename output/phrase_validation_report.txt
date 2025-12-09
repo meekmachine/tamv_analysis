@@ -1,0 +1,144 @@
+======================================================================
+PHRASE-LEVEL TAMV VALIDATION REPORT
+======================================================================
+
+OVERALL RESULTS
+----------------------------------------
+Total test cases:     32
+Total verb phrases:   43
+Phrases detected:     40 (93.0%)
+Labels fully correct: 35 (87.5%)
+
+PER-DIMENSION ACCURACY (where phrase was detected)
+----------------------------------------
+Tense:   97.5%
+Aspect:  97.5%
+Mood:    90.0%
+Voice:   100.0%
+
+
+TENSE CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+            future     none     past  present
+future           2        0        0        0
+none             0        4        0        1
+past             0        0       13        0
+present          0        0        0       20
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+future                  100.00%    100.00%    100.00%          2
+none                    100.00%     80.00%     88.89%          5
+past                    100.00%    100.00%    100.00%         13
+present                  95.24%    100.00%     97.56%         20
+------------------------------------------------------------
+Weighted Avg             97.62%     97.50%     97.39%         40
+
+
+ASPECT CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+                                   perfect  perfect-progressive          progressive               simple
+perfect                                  8                    0                    0                    1
+perfect-progressive                      0                    2                    0                    0
+progressive                              0                    0                    4                    0
+simple                                   0                    0                    0                   25
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+perfect                 100.00%     88.89%     94.12%          9
+perfect-progressive     100.00%    100.00%    100.00%          2
+progressive             100.00%    100.00%    100.00%          4
+simple                   96.15%    100.00%     98.04%         25
+------------------------------------------------------------
+Weighted Avg             97.60%     97.50%     97.45%         40
+
+
+MOOD CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+               conditional   imperative   indicative  infinitival        modal   participle  subjunctive
+conditional              2            0            0            0            0            0            2
+imperative               0            1            0            0            0            0            0
+indicative               1            0           27            0            0            0            0
+infinitival              0            0            0            3            0            0            0
+modal                    0            0            0            0            1            0            0
+participle               0            0            1            0            0            1            0
+subjunctive              0            0            0            0            0            0            1
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+conditional              66.67%     50.00%     57.14%          4
+imperative              100.00%    100.00%    100.00%          1
+indicative               96.43%     96.43%     96.43%         28
+infinitival             100.00%    100.00%    100.00%          3
+modal                   100.00%    100.00%    100.00%          1
+participle              100.00%     50.00%     66.67%          2
+subjunctive              33.33%    100.00%     50.00%          1
+------------------------------------------------------------
+Weighted Avg             92.50%     90.00%     90.30%         40
+
+
+VOICE CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+            active  passive
+active          25        0
+passive          0       15
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+active                  100.00%    100.00%    100.00%         25
+passive                 100.00%    100.00%    100.00%         15
+------------------------------------------------------------
+Weighted Avg            100.00%    100.00%    100.00%         40
+
+FAILED TEST CASES
+----------------------------------------
+
+  ID 8: "If he finishes early, he will help us."
+    - 'will help':
+        Expected: future-simple-indicative-active
+        Got:      future-simple-conditional-active
+        * Mood: expected indicative, got conditional
+
+  ID 14: "After being delayed for months, the project was finally approved."
+    - 'being delayed':
+        Expected: none-progressive-participle-passive
+        Got:      present-progressive-indicative-passive
+        * Tense: expected none, got present
+        * Mood: expected participle, got indicative
+
+  ID 15: "He said that he would finish the report, but he has been avoiding my emails."
+    - 'would finish':
+        Expected: present-simple-conditional-active
+        Got:      present-simple-subjunctive-active
+        * Mood: expected conditional, got subjunctive
+
+  ID 17: "Having been warned about the delay, she decided to cancel the meeting."
+    - 'Having been warned':
+        Expected: none-perfect-participle-passive
+        Got:      none-simple-participle-passive
+        * Aspect: expected perfect, got simple
+
+  ID 18: "Why didn't you tell me that the server was down?"
+    - 'was' NOT FOUND
+
+  ID 20: "If you had told me earlier, I could have helped."
+    - 'could have helped':
+        Expected: present-perfect-conditional-active
+        Got:      present-perfect-subjunctive-active
+        * Mood: expected conditional, got subjunctive
+
+  ID 26: "The meeting seems cancelled."
+    - 'seems' NOT FOUND
+
+  ID 28: "She got tired last year."
+    - 'got tired' NOT FOUND
+
+======================================================================

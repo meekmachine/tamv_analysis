@@ -1,0 +1,237 @@
+[
+  {
+    "id": 1,
+    "text": "She writes code every day.",
+    "tamv": [
+      { "span": "writes", "label": "present-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "She is writing code right now.",
+    "tamv": [
+      { "span": "is writing", "label": "present-progressive-indicative-active" }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "She has written three reports today.",
+    "tamv": [
+      { "span": "has written", "label": "present-perfect-indicative-active" }
+    ]
+  },
+  {
+    "id": 4,
+    "text": "She has been writing reports all morning.",
+    "tamv": [
+      { "span": "has been writing", "label": "present-perfect-progressive-indicative-active" }
+    ]
+  },
+  {
+    "id": 5,
+    "text": "The report was written yesterday.",
+    "tamv": [
+      { "span": "was written", "label": "past-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 6,
+    "text": "The report is being written right now.",
+    "tamv": [
+      { "span": "is being written", "label": "present-progressive-indicative-passive" }
+    ]
+  },
+  {
+    "id": 7,
+    "text": "Write the report before noon.",
+    "tamv": [
+      { "span": "Write", "label": "present-simple-imperative-active" }
+    ]
+  },
+  {
+    "id": 8,
+    "text": "If he finishes early, he will help us.",
+    "tamv": [
+      { "span": "finishes", "label": "present-simple-conditional-active" },
+      { "span": "will help", "label": "future-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 9,
+    "text": "He might finish the report tomorrow.",
+    "tamv": [
+      { "span": "might finish", "label": "present-simple-subjunctive-active" }
+    ]
+  },
+  {
+    "id": 10,
+    "text": "The window got broken during the storm.",
+    "tamv": [
+      { "span": "got broken", "label": "past-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 11,
+    "text": "By next year, we will have lived here for a decade.",
+    "tamv": [
+      { "span": "will have lived", "label": "future-perfect-indicative-active" }
+    ]
+  },
+  {
+    "id": 12,
+    "text": "She was always being interrupted by her manager.",
+    "tamv": [
+      { "span": "was being interrupted", "label": "past-progressive-indicative-passive" }
+    ]
+  },
+  {
+    "id": 13,
+    "text": "The project that we started last year has finally been approved.",
+    "tamv": [
+      { "span": "started", "label": "past-simple-indicative-active" },
+      { "span": "has been approved", "label": "present-perfect-indicative-passive" }
+    ]
+  },
+  {
+    "id": 14,
+    "text": "After being delayed for months, the project was finally approved.",
+    "tamv": [
+      { "span": "being delayed", "label": "none-progressive-participle-passive" },
+      { "span": "was approved", "label": "past-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 15,
+    "text": "He said that he would finish the report, but he has been avoiding my emails.",
+    "tamv": [
+      { "span": "said", "label": "past-simple-indicative-active" },
+      { "span": "would finish", "label": "present-simple-conditional-active" },
+      { "span": "has been avoiding", "label": "present-perfect-progressive-indicative-active" }
+    ]
+  },
+  {
+    "id": 16,
+    "text": "He promised to finish the report and to send it before Friday.",
+    "tamv": [
+      { "span": "promised", "label": "past-simple-indicative-active" },
+      { "span": "to finish", "label": "none-simple-infinitival-active" },
+      { "span": "to send", "label": "none-simple-infinitival-active" }
+    ]
+  },
+  {
+    "id": 17,
+    "text": "Having been warned about the delay, she decided to cancel the meeting.",
+    "tamv": [
+      { "span": "Having been warned", "label": "none-perfect-participle-passive" },
+      { "span": "decided", "label": "past-simple-indicative-active" },
+      { "span": "to cancel", "label": "none-simple-infinitival-active" }
+    ]
+  },
+  {
+    "id": 18,
+    "text": "Why didn't you tell me that the server was down?",
+    "tamv": [
+      { "span": "didn't tell", "label": "past-simple-indicative-active" },
+      { "span": "was", "label": "past-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 19,
+    "text": "The issue should have been fixed by now.",
+    "tamv": [
+      { "span": "should have been fixed", "label": "present-perfect-modal-passive" }
+    ]
+  },
+  {
+    "id": 20,
+    "text": "If you had told me earlier, I could have helped.",
+    "tamv": [
+      { "span": "had told", "label": "past-perfect-conditional-active" },
+      { "span": "could have helped", "label": "present-perfect-conditional-active" }
+    ]
+  },
+  {
+    "id": 21,
+    "text": "The door was opened slowly.",
+    "tamv": [
+      { "span": "was opened", "label": "past-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 22,
+    "text": "The door opened slowly.",
+    "tamv": [
+      { "span": "opened", "label": "past-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 23,
+    "text": "The window is broken.",
+    "tamv": [
+      { "span": "is broken", "label": "present-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 24,
+    "text": "The window looks broken.",
+    "tamv": [
+      { "span": "looks", "label": "present-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 25,
+    "text": "The meeting is cancelled.",
+    "tamv": [
+      { "span": "is cancelled", "label": "present-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 26,
+    "text": "The meeting seems cancelled.",
+    "tamv": [
+      { "span": "seems", "label": "present-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 27,
+    "text": "She got promoted last year.",
+    "tamv": [
+      { "span": "got promoted", "label": "past-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 28,
+    "text": "She got tired last year.",
+    "tamv": [
+      { "span": "got tired", "label": "past-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 29,
+    "text": "The room is cleaned every day.",
+    "tamv": [
+      { "span": "is cleaned", "label": "present-simple-indicative-passive" }
+    ]
+  },
+  {
+    "id": 30,
+    "text": "The room is clean every day.",
+    "tamv": [
+      { "span": "is", "label": "present-simple-indicative-active" }
+    ]
+  },
+  {
+    "id": 31,
+    "text": "Your request has been approved.",
+    "tamv": [
+      { "span": "has been approved", "label": "present-perfect-indicative-passive" }
+    ]
+  },
+  {
+    "id": 32,
+    "text": "Your request has arrived.",
+    "tamv": [
+      { "span": "has arrived", "label": "present-perfect-indicative-active" }
+    ]
+  }
+]

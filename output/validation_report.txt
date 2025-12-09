@@ -4,38 +4,152 @@ TAMV EXTRACTION VALIDATION REPORT
 
 OVERALL RESULTS
 ----------------------------------------
-Total test cases:     42
-Passed:               38
-Failed:               4
-Overall accuracy:     90.5%
+Total test cases:     65
+Passed:               52
+Failed:               13
+Overall accuracy:     80.0%
 
-Verb detection rate:  100.0%
+Verb detection rate:  95.4%
 
 PER-DIMENSION ACCURACY (where verb was found)
 ----------------------------------------
-Tense:   100.0%
-Aspect:  100.0%
-Mood:    90.5%
+Tense:   93.5%
+Aspect:  98.4%
+Mood:    88.7%
 Voice:   100.0%
 
 ACCURACY BY CATEGORY
 ----------------------------------------
-  aspect_perfect                       3/ 3 (100%)
-  aspect_perfect_progressive           2/ 2 (100%)
-  aspect_progressive                   3/ 3 (100%)
-  complex                              3/ 3 (100%)
-  edge_cases                           3/ 3 (100%)
-  mood_conditional                     2/ 2 (100%)
+  aspect_perfect                       4/ 4 (100%)
+  aspect_progressive                   2/ 2 (100%)
+  complex                             11/13 (85%)
+  mood_conditional                     2/ 5 (40%)
   mood_imperative                      2/ 3 (67%)
-  mood_modal                           5/ 5 (100%)
-  mood_subjunctive                     0/ 3 (0%)
+  mood_modal                           2/ 3 (67%)
+  mood_subjunctive                     0/ 4 (0%)
   tense_future                         2/ 2 (100%)
-  tense_past                           3/ 3 (100%)
-  tense_present                        3/ 3 (100%)
-  voice_passive                        7/ 7 (100%)
+  tense_past                          10/11 (91%)
+  tense_present                        7/ 8 (88%)
+  voice_passive                       10/10 (100%)
+
+TENSE CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+            future     none     past  present
+future           3        0        0        1
+none             0        3        0        0
+past             0        0       21        2
+present          0        1        0       31
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+future                  100.00%     75.00%     85.71%          4
+none                     75.00%    100.00%     85.71%          3
+past                    100.00%     91.30%     95.45%         23
+present                  91.18%     96.88%     93.94%         32
+------------------------------------------------------------
+Weighted Avg             94.24%     93.55%     93.57%         62
+
+
+ASPECT CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+                                   perfect  perfect-progressive          progressive               simple
+perfect                                 12                    0                    0                    1
+perfect-progressive                      0                    1                    0                    0
+progressive                              0                    0                    5                    0
+simple                                   0                    0                    0                   43
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+perfect                 100.00%     92.31%     96.00%         13
+perfect-progressive     100.00%    100.00%    100.00%          1
+progressive             100.00%    100.00%    100.00%          5
+simple                   97.73%    100.00%     98.85%         43
+------------------------------------------------------------
+Weighted Avg             98.42%     98.39%     98.36%         62
+
+
+MOOD CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+               conditional   imperative   indicative  infinitival        modal   participle  subjunctive
+conditional              4            0            0            0            1            0            0
+imperative               0            2            1            0            0            0            0
+indicative               0            0           41            0            0            0            0
+infinitival              0            0            0            2            0            0            0
+modal                    0            0            0            0            3            0            2
+participle               0            0            0            0            0            1            0
+subjunctive              0            0            2            0            0            1            2
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+conditional             100.00%     80.00%     88.89%          5
+imperative              100.00%     66.67%     80.00%          3
+indicative               93.18%    100.00%     96.47%         41
+infinitival             100.00%    100.00%    100.00%          2
+modal                    75.00%     60.00%     66.67%          5
+participle               50.00%    100.00%     66.67%          1
+subjunctive              50.00%     40.00%     44.44%          5
+------------------------------------------------------------
+Weighted Avg             88.64%     88.71%     88.10%         62
+
+
+VOICE CONFUSION MATRIX
+------------------------------------------------------------
+(rows = expected, columns = predicted)
+
+            active  passive
+active          38        0
+passive          0       24
+
+Label                 Precision     Recall         F1    Support
+------------------------------------------------------------
+active                  100.00%    100.00%    100.00%         38
+passive                 100.00%    100.00%    100.00%         24
+------------------------------------------------------------
+Weighted Avg            100.00%    100.00%    100.00%         62
+
 
 FAILED TEST CASES
 ----------------------------------------
+
+  Sentence: "It urged that the city take steps to remedy this problem."
+  Verb: take
+  Category: mood_subjunctive
+  Expected: present-simple-subjunctive-active
+  Got:      present-simple-indicative-active
+    - Mood: expected subjunctive, got indicative
+
+  Sentence: "I'm willing to stake my political career on it."
+  Verb: willing
+  Category: tense_present
+  Expected: present-simple-indicative-active
+    - Verb 'willing' not found in extraction
+
+  Sentence: "He has served as a border patrolman and was in the Signal Corps."
+  Verb: was
+  Category: tense_past
+  Expected: past-simple-indicative-active
+    - Verb 'was' not found in extraction
+
+  Sentence: "He might have been promoted last year."
+  Verb: promoted
+  Category: complex
+  Expected: past-perfect-modal-passive
+  Got:      present-perfect-subjunctive-passive
+    - Tense: expected past, got present
+    - Mood: expected modal, got subjunctive
+
+  Sentence: "They would have finished if given more time."
+  Verb: finished
+  Category: mood_conditional
+  Expected: past-perfect-conditional-active
+  Got:      present-perfect-conditional-active
+    - Tense: expected past, got present
 
   Sentence: "Don't forget the meeting."
   Verb: forget
@@ -43,7 +157,6 @@ FAILED TEST CASES
   Expected: present-simple-imperative-active
   Got:      present-simple-indicative-active
     - Mood: expected imperative, got indicative
-  Notes: Negative imperative
 
   Sentence: "I suggest that he leave immediately."
   Verb: leave
@@ -51,22 +164,47 @@ FAILED TEST CASES
   Expected: present-simple-subjunctive-active
   Got:      present-simple-indicative-active
     - Mood: expected subjunctive, got indicative
-  Notes: Mandative subjunctive
 
-  Sentence: "The committee recommends that she be appointed."
-  Verb: appointed
+  Sentence: "If it were true, he would be punished."
+  Verb: were
+  Category: mood_subjunctive
+  Expected: past-simple-subjunctive-active
+    - Verb 'were' not found in extraction
+
+  Sentence: "If it were true, he would be punished."
+  Verb: punished
+  Category: mood_conditional
+  Expected: future-simple-conditional-passive
+  Got:      present-simple-conditional-passive
+    - Tense: expected future, got present
+
+  Sentence: "Should you need help, call me."
+  Verb: need
+  Category: mood_conditional
+  Expected: present-simple-conditional-active
+  Got:      present-simple-modal-active
+    - Mood: expected conditional, got modal
+
+  Sentence: "Could you be more specific?"
+  Verb: be
+  Category: mood_modal
+  Expected: present-simple-modal-active
+  Got:      present-simple-subjunctive-active
+    - Mood: expected modal, got subjunctive
+
+  Sentence: "It is essential that he be told immediately."
+  Verb: told
   Category: mood_subjunctive
   Expected: present-simple-subjunctive-passive
-  Got:      present-simple-indicative-passive
-    - Mood: expected subjunctive, got indicative
-  Notes: Mandative subjunctive, passive
+  Got:      none-simple-participle-passive
+    - Tense: expected present, got none
+    - Mood: expected subjunctive, got participle
 
-  Sentence: "It is essential that he attend the meeting."
-  Verb: attend
-  Category: mood_subjunctive
-  Expected: present-simple-subjunctive-active
-  Got:      present-simple-indicative-active
-    - Mood: expected subjunctive, got indicative
-  Notes: Subjunctive after adjective
+  Sentence: "Having been warned, they were being extremely careful."
+  Verb: warned
+  Category: complex
+  Expected: none-perfect-participle-passive
+  Got:      none-simple-participle-passive
+    - Aspect: expected perfect, got simple
 
 ======================================================================

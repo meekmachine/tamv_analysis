@@ -1,0 +1,66 @@
+index	verb	tense	aspect	mood	voice	category	source
+1	urged	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+1	take	PRESENT	SIMPLE	SUBJUNCTIVE	ACTIVE	mood_subjunctive	Brown corpus
+2	recommended	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	Brown corpus
+3	married	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	Brown corpus
+4	said	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+4	agreed	PRESENT	PERFECT	INDICATIVE	PASSIVE	complex	Brown corpus
+5	been	PRESENT	PERFECT	INDICATIVE	ACTIVE	aspect_perfect	Brown corpus
+6	goes	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	Brown corpus
+7	expected	PAST	PERFECT	INDICATIVE	PASSIVE	complex	Brown corpus
+8	expected	PRESENT	SIMPLE	INDICATIVE	PASSIVE	voice_passive	Brown corpus
+9	passed	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+10	received	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+11	smell	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+12	was	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+13	marked	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	Brown corpus
+14	said	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+14	made	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+15	was	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+15	passed	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+16	willing	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	Brown corpus
+17	required	PRESENT	SIMPLE	INDICATIVE	PASSIVE	voice_passive	Brown corpus
+18	holds	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	Brown corpus
+19	served	PRESENT	PERFECT	INDICATIVE	ACTIVE	aspect_perfect	Brown corpus
+19	was	PAST	SIMPLE	INDICATIVE	ACTIVE	tense_past	Brown corpus
+20	begin	PRESENT	SIMPLE	MODAL	ACTIVE	mood_modal	Brown corpus
+21	writes	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	User test data
+22	writing	PRESENT	PROGRESSIVE	INDICATIVE	ACTIVE	aspect_progressive	User test data
+23	written	PRESENT	PERFECT	INDICATIVE	ACTIVE	aspect_perfect	User test data
+24	written	PAST	PERFECT	INDICATIVE	ACTIVE	aspect_perfect	User test data
+25	write	FUTURE	SIMPLE	INDICATIVE	ACTIVE	tense_future	User test data
+26	written	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	User test data
+27	written	PRESENT	PROGRESSIVE	INDICATIVE	PASSIVE	complex	User test data
+28	write	PRESENT	SIMPLE	MODAL	ACTIVE	mood_modal	User test data
+29	Write	PRESENT	SIMPLE	IMPERATIVE	ACTIVE	mood_imperative	User test data
+30	wrote	PAST	SIMPLE	CONDITIONAL	ACTIVE	mood_conditional	User test data
+30	improve	PRESENT	SIMPLE	CONDITIONAL	ACTIVE	mood_conditional	User test data
+31	writing	PRESENT	PERFECT_PROGRESSIVE	INDICATIVE	ACTIVE	complex	User test data
+31	continue	FUTURE	SIMPLE	INDICATIVE	ACTIVE	tense_future	User test data
+32	submitted	PRESENT	SIMPLE	MODAL	PASSIVE	complex	User test data
+33	promoted	PAST	PERFECT	MODAL	PASSIVE	complex	User test data
+34	finished	PAST	PERFECT	CONDITIONAL	ACTIVE	mood_conditional	User test data
+35	built	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	User test data
+35	renovated	PRESENT	PROGRESSIVE	INDICATIVE	PASSIVE	complex	User test data
+36	forget	PRESENT	SIMPLE	IMPERATIVE	ACTIVE	mood_imperative	User test data
+37	suggest	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	User test data
+37	leave	PRESENT	SIMPLE	SUBJUNCTIVE	ACTIVE	mood_subjunctive	User test data
+38	watched	PRESENT	PROGRESSIVE	SUBJUNCTIVE	PASSIVE	complex	User test data
+39	fired	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	User test data
+40	locked	PRESENT	SIMPLE	INDICATIVE	PASSIVE	voice_passive	User test data
+41	were	PAST	SIMPLE	SUBJUNCTIVE	ACTIVE	mood_subjunctive	User test data
+41	punished	FUTURE	SIMPLE	CONDITIONAL	PASSIVE	mood_conditional	User test data
+42	need	PRESENT	SIMPLE	CONDITIONAL	ACTIVE	mood_conditional	User test data
+42	call	PRESENT	SIMPLE	IMPERATIVE	ACTIVE	mood_imperative	User test data
+43	be	PRESENT	SIMPLE	MODAL	ACTIVE	mood_modal	User test data
+44	is	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	User test data
+44	told	PRESENT	SIMPLE	SUBJUNCTIVE	PASSIVE	mood_subjunctive	User test data
+45	completed	FUTURE	PERFECT	INDICATIVE	PASSIVE	complex	User test data
+46	sells	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	User test data
+47	avoided	PRESENT	PERFECT	SUBJUNCTIVE	PASSIVE	complex	User test data
+48	seems	PRESENT	SIMPLE	INDICATIVE	ACTIVE	tense_present	User test data
+48	promoted	NONE	PERFECT	INFINITIVAL	PASSIVE	complex	User test data
+49	warned	NONE	PERFECT	PARTICIPLE	PASSIVE	complex	User test data
+49	being	PAST	PROGRESSIVE	INDICATIVE	ACTIVE	aspect_progressive	User test data
+50	supposed	PAST	SIMPLE	INDICATIVE	PASSIVE	voice_passive	User test data
+50	told	NONE	PERFECT	INFINITIVAL	PASSIVE	complex	User test data

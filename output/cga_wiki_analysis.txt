@@ -1,0 +1,56 @@
+======================================================================
+CGA TAMV ANALYSIS REPORT (WIKI)
+======================================================================
+
+DATASET SUMMARY
+----------------------------------------
+Dataset:              wiki
+Sample rate:          1/10
+Total conversations:  419
+Civil:                117
+Derailed:             302
+TAMV categories:      168
+
+TOP 20 TAMV DIFFERENCES (by effect size)
+----------------------------------------------------------------------
+Label                                       Civil   Derailed     Diff      d        p
+----------------------------------------------------------------------
+present-simple-indicative-passive           0.262      0.417   +0.155  +0.39  0.0005*
+past-progressive-indicative-active          0.153      0.047   -0.107  -0.37  0.0000*
+past-simple-indicative-active               2.526      1.940   -0.586  -0.34  0.0004*
+future-simple-indicative-active             0.280      0.160   -0.120  -0.30  0.0012*
+present-simple-subjunctive-active           0.427      0.274   -0.153  -0.30  0.0020*
+present-progressive-conditional-active      0.024      0.057   +0.033  +0.30  0.0080*
+present-simple-imperative-active            1.060      0.797   -0.263  -0.21  0.0186*
+present-simple-conditional-passive          0.046      0.081   +0.035  +0.21  0.0586
+present-perfect-indicative-passive          0.137      0.082   -0.055  -0.20  0.0332*
+past-perfect-indicative-passive             0.023      0.003   -0.020  -0.19  0.0201*
+present-perfect-progressive-indicative-active    0.047      0.019   -0.028  -0.19  0.0367*
+past-simple-conditional-active              0.205      0.264   +0.059  +0.17  0.1202
+past-simple-conditional-passive             0.036      0.018   -0.018  -0.16  0.0836
+present-simple-subjunctive-passive          0.019      0.037   +0.018  +0.15  0.1774
+present-perfect-subjunctive-passive         0.000      0.001   +0.001  +0.15  0.2474
+present-perfect-modal-active                0.032      0.012   -0.019  -0.14  0.0942
+future-simple-conditional-passive           0.014      0.004   -0.009  -0.14  0.1241
+future-progressive-conditional-active       0.000      0.003   +0.003  +0.13  0.3030
+present-perfect-progressive-modal-active    0.001      0.000   -0.001  -0.13  0.1082
+present-perfect-conditional-active          0.031      0.045   +0.015  +0.12  0.2376
+
+SIGNIFICANT DIFFERENCES (p < 0.05): 10
+----------------------------------------
+
+Higher in DERAILED conversations (2):
+  present-simple-indicative-passive: +0.155 (d=+0.39)
+  present-progressive-conditional-active: +0.033 (d=+0.30)
+
+Higher in CIVIL conversations (8):
+  past-simple-indicative-active: -0.586 (d=-0.34)
+  present-simple-imperative-active: -0.263 (d=-0.21)
+  present-simple-subjunctive-active: -0.153 (d=-0.30)
+  future-simple-indicative-active: -0.120 (d=-0.30)
+  past-progressive-indicative-active: -0.107 (d=-0.37)
+  present-perfect-indicative-passive: -0.055 (d=-0.20)
+  present-perfect-progressive-indicative-active: -0.028 (d=-0.19)
+  past-perfect-indicative-passive: -0.020 (d=-0.19)
+
+======================================================================

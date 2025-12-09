@@ -1,0 +1,83 @@
+======================================================================
+CGA TAMV ANALYSIS REPORT (WIKI)
+======================================================================
+
+DATASET SUMMARY
+----------------------------------------
+Dataset:              wiki
+Sample rate:          1/10
+Speaker profiles:     1259
+TAMV combinations:    51
+
+DERAILMENT SUMMARY
+----------------------------------------
+Derailed speakers:    971
+Civil speakers:       288
+
+OVERALL TAMV DEVIATION BY DERAILMENT STATUS
+----------------------------------------
+Derailed mean |z|:    0.849
+Civil mean |z|:       1.200
+Difference:           -0.351
+
+TOP 15 TAMV COMBINATIONS (by frequency)
+----------------------------------------
+Label                                             Mean       SD    Count
+----------------------------------------------------------------------
+present-simple-indicative-active                 6.312    2.955     1183
+past-simple-indicative-active                    2.740    2.225      927
+none-simple-infinitival-active                   2.081    1.388      874
+present-simple-imperative-active                 1.647    1.579      664
+present-simple-conditional-active                2.141    2.166      554
+present-simple-modal-active                      1.203    1.314      536
+present-simple-indicative-passive                1.120    1.093      453
+present-perfect-indicative-active                1.195    1.247      444
+present-progressive-indicative-active            1.163    1.145      433
+none-simple-participle-active                    0.893    0.948      392
+present-simple-subjunctive-active                1.103    1.209      362
+present-simple-modal-passive                     0.925    0.957      277
+past-simple-conditional-active                   1.060    1.052      272
+past-simple-indicative-passive                   0.972    1.010      258
+future-simple-indicative-active                  0.952    0.960      250
+
+TAMV LABELS WITH LARGEST DERAILMENT DIFFERENCE
+----------------------------------------
+(Positive = higher z-score in derailed conversations)
+
+Label                                           Derailed z      Civil z     Diff
+--------------------------------------------------------------------------------
+present-perfect-modal-active                        -0.270        1.037   -1.307
+present-perfect-subjunctive-active                  -0.286        0.686   -0.972
+future-simple-indicative-passive                    -0.202        0.764   -0.967
+past-simple-indicative-passive                      -0.145        0.748   -0.894
+past-simple-conditional-passive                     -0.197        0.532   -0.729
+present-simple-modal-passive                        -0.099        0.606   -0.705
+
+SPEAKERS WITH HIGHEST TAMV DEVIATIONS
+----------------------------------------
+  [DERAILED] Speaker Dangerous-Boy        mean|z|=11.77
+             present-simple-modal-active: z=11.77
+  [CIVIL   ] Speaker K                    mean|z|=9.60
+             none-simple-participle-active: z=9.60
+  [CIVIL   ] Speaker 216.21.150.44        mean|z|=8.02
+             present-simple-indicative-active: z=8.02
+  [CIVIL   ] Speaker Zero0000             mean|z|=7.27
+             present-simple-subjunctive-active: z=10.90
+             none-simple-infinitival-active: z=3.65
+  [DERAILED] Speaker Chiswick Chap        mean|z|=7.06
+             present-perfect-indicative-active: z=7.06
+  [CIVIL   ] Speaker JuJube               mean|z|=6.38
+             past-simple-indicative-passive: z=8.04
+             present-simple-imperative-active: z=4.72
+  [CIVIL   ] Speaker Sandstein            mean|z|=6.00
+             present-simple-modal-active: z=6.00
+  [DERAILED] Speaker Rjanag               mean|z|=5.55
+             past-simple-indicative-active: z=8.40
+             present-simple-indicative-active: z=2.70
+  [DERAILED] Speaker Polaron              mean|z|=5.43
+             present-simple-modal-active: z=5.43
+  [CIVIL   ] Speaker Rgoodermote          mean|z|=5.04
+             present-perfect-indicative-passive: z=5.24
+             present-simple-modal-passive: z=4.84
+
+======================================================================
